@@ -27,7 +27,15 @@ Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaela
 
 ## Koulutus
 
+* 08.08.2021 - 29.05.2015 Etelä-Kymenlaakson ammattiopisto (Hamina)
+  * Tieto- ja veistintätekniikan perustutkinto (käytön tuen koulutusohjelma), Datanomi
+
 ## Kurssit ja muu koulutus
+
+* 28.04.2014 - CCNA Discovery: Networking for Home and Small Businesses
+* 16.09.2014 - CCNA Discovery: Working at a Small-to-Medium Business or ISP
+<!-- * 25.05.2015 - TIEKE: Tietokoneen käyttäjän A-kortti -->
+* 25.05.2015 - TIEKE: Tietokoneen käyttäjän AB-kortti
 
 ## Kielitaito
 
