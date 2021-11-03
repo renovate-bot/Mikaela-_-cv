@@ -4,7 +4,7 @@ Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaela
 
 ## Työkokemus
 
-* 13.19.2021-- *Digitalents Academy*
+* 13.09.2021-- *Digitalents Academy*
   * **Työkokeilu**
   * BACKEND-ohjelmointi käyttäen JavaScript/Node.JS
 * 03.2020 - 09.2020 *Unicus Finland*
@@ -27,7 +27,7 @@ Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaela
 
 ## Koulutus
 
-* 08.08.2021 - 29.05.2015 *Etelä-Kymenlaakson ammattiopisto (Hamina)*
+* 08.08.2012 - 29.05.2015 *Etelä-Kymenlaakson ammattiopisto (Hamina)*
   * **Tieto- ja viestintätekniikan perustutkinto (käytön tuen koulutusohjelma), Datanomi**
 
 ## Kurssit ja muu koulutus
