@@ -1,8 +1,29 @@
 _Lyhyt biografia tähän_
 
-[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) _jne. tähän?_
+Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) _jne. tähän?_
 
 ## Työkokemus
+
+* 13.19.2021-- Digitalents Academy
+  * Työkokeilu
+  * BACKEND-ohjelmointi käyttäen JavaScript/Node.JS
+* 03.2020 - 09.2020 Unicus Finland
+  * Työkokeilu
+  * Ohjelmointiin ja testaukseen liittyvät tehtävät
+  * ISTQB Foundation -kokeeseen valmistautuminen
+* 28.10.2019 - 19.12.2019 Robuntu Osk
+  * Moninaiset askareet osuuskunnan tukitoiminnoissa
+  * avustamista IT-toiminnoissa
+* 10.2015-- Piraattipuolue r.p.
+  * Verkkopalveluiden- ja Pikaviestinten ylläpito
+  * Debian- ja Ubuntu-palvelimien ylläpito
+  * Gitea-palvelimen ylläpito
+  * 2x Charybdis- ja Atheme -IRC-palvelin-sovelluksien ylläpito (leaf, hub, services)
+  * Ergo IRCd-palvelimen ylläpito
+  * Limnoria-ylläpito
+  * Matterbridge-ylläpito
+  * Discord-killan ylläpito
+  * Matrix-huoneiden/avaruuden -ylläpito
 
 ## Koulutus
 
@@ -15,6 +36,11 @@ _Lyhyt biografia tähän_
 ## Harrastukset
 
 ## Luottamustehtävät / vapaa-ehtoistyö
+
+* 02.04.2019 - 04.2020 PrivacyTools.io
+  * Tiimin jäsen
+* 10.2020-- PrivacyGuides.org
+  * Tiimin jäsen
 
 <!-- ## Suosittelijat
 
