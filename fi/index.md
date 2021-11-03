@@ -32,10 +32,11 @@ Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaela
 
 ## Kurssit ja muu koulutus
 
-* 28.04.2014 - CCNA Discovery: Networking for Home and Small Businesses
-* 16.09.2014 - CCNA Discovery: Working at a Small-to-Medium Business or ISP
 <!-- * 25.05.2015 - TIEKE: Tietokoneen käyttäjän A-kortti -->
 * 25.05.2015 - TIEKE: Tietokoneen käyttäjän AB-kortti
+* 16.09.2014 - CCNA Discovery: Working at a Small-to-Medium Business or ISP
+* 28.04.2014 - CCNA Discovery: Networking for Home and Small Businesses
+
 
 ## Kielitaito
 
@@ -45,9 +46,9 @@ Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaela
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
-* 02.04.2019 - 04.2020 *PrivacyTools.io*
+* 10.2020-- *Privacy Guides*
   * **Tiimin jäsen**
-* 10.2020-- *PrivacyGuides.org*
+* 02.04.2019 - 04.2020 *Privacy Tools*
   * **Tiimin jäsen**
 
 <!-- ## Suosittelijat
