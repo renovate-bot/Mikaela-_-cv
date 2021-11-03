@@ -4,18 +4,18 @@ Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaela
 
 ## Työkokemus
 
-* 13.19.2021-- Digitalents Academy
-  * Työkokeilu
+* 13.19.2021-- *Digitalents Academy*
+  * **Työkokeilu**
   * BACKEND-ohjelmointi käyttäen JavaScript/Node.JS
-* 03.2020 - 09.2020 Unicus Finland
-  * Työkokeilu
+* 03.2020 - 09.2020 *Unicus Finland*
+  * **Työkokeilu**
   * Ohjelmointiin ja testaukseen liittyvät tehtävät
   * ISTQB Foundation -kokeeseen valmistautuminen
-* 28.10.2019 - 19.12.2019 Robuntu Osk
-  * Moninaiset askareet osuuskunnan tukitoiminnoissa
+* 28.10.2019 - 19.12.2019 *Robuntu Osk*
+  * **Moninaiset askareet osuuskunnan tukitoiminnoissa**
   * avustamista IT-toiminnoissa
-* 10.2015-- Piraattipuolue r.p.
-  * Verkkopalveluiden- ja Pikaviestinten ylläpito
+* 10.2015-- *Piraattipuolue r.p.*
+  * **Verkkopalveluiden- ja Pikaviestinten ylläpito**
   * Debian- ja Ubuntu-palvelimien ylläpito
   * Gitea-palvelimen ylläpito
   * 2x Charybdis- ja Atheme -IRC-palvelin-sovelluksien ylläpito (leaf, hub, services)
@@ -27,8 +27,8 @@ Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaela
 
 ## Koulutus
 
-* 08.08.2021 - 29.05.2015 Etelä-Kymenlaakson ammattiopisto (Hamina)
-  * Tieto- ja veistintätekniikan perustutkinto (käytön tuen koulutusohjelma), Datanomi
+* 08.08.2021 - 29.05.2015 *Etelä-Kymenlaakson ammattiopisto (Hamina)*
+  * **Tieto- ja viestintätekniikan perustutkinto (käytön tuen koulutusohjelma), Datanomi**
 
 ## Kurssit ja muu koulutus
 
@@ -45,10 +45,10 @@ Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaela
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
-* 02.04.2019 - 04.2020 PrivacyTools.io
-  * Tiimin jäsen
-* 10.2020-- PrivacyGuides.org
-  * Tiimin jäsen
+* 02.04.2019 - 04.2020 *PrivacyTools.io*
+  * **Tiimin jäsen**
+* 10.2020-- *PrivacyGuides.org*
+  * **Tiimin jäsen**
 
 <!-- ## Suosittelijat
 
