@@ -48,7 +48,7 @@
 ## IT-Taidot
 
 * Linux-ylläpito vuodesta 2008
-  * Arch Linux, Debian (, Ubuntu), Fedora
+  * Arch Linux, Debian, (Ubuntu, ) Fedora
   * OpenSSHd, CUPS, UFW
   * Chrony NTP-palvelin
 * Git
