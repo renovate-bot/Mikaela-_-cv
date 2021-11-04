@@ -47,6 +47,22 @@
 
 ## IT-Taidot
 
+* Linux-ylläpito vuodesta 2008
+  * Arch Linux, Debian (, Ubuntu), Fedora
+  * OpenSSHd, CUPS, UFW
+  * Chrony NTP-palvelin
+* Git
+  * GitHub/GitLab/Gitea orgaisaatiot, issue tracker, labelit
+  * GitLab/Gitea -repojen peilaus
+  * GitHub/Gitlab pages
+* DNS
+  * DNSSEC, zone-hallinta, Unbound
+* IPv6
+  * SixXS, Tunnelbroker, radvd, radvdump, Yggdrasil
+* IRC
+  * Charybdis, Atheme, Ergo
+  * KiwiIRC, Gamja
+
 ## Harrastukset
 
 ## Luottamustehtävät / vapaa-ehtoistyö
