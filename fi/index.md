@@ -42,6 +42,10 @@
 
 ## Kielitaito
 
+* Äidinkieli: suomi
+* B2: englanti
+* A1: esperanto
+
 ## IT-Taidot
 
 ## Harrastukset
