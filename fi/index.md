@@ -39,7 +39,6 @@
 * 16.09.2014 - CCNA Discovery: Working at a Small-to-Medium Business or ISP
 * 28.04.2014 - CCNA Discovery: Networking for Home and Small Businesses
 
-
 ## Kielitaito
 
 * Äidinkieli: suomi
