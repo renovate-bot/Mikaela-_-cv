@@ -2,7 +2,7 @@
 
 🌍 Helsinki, Suomi / [email](mailto:suomalainen+cvfi@mikaela.info) /
 [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
-[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) [OpenHUB](https://www.openhub.net/accounts/Mikaela)
+[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [OpenHUB](https://www.openhub.net/accounts/Mikaela)
 
 ## Työkokemus
 
