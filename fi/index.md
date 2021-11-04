@@ -1,6 +1,8 @@
-_Lyhyt biografia tähän_
+<! -- *Lyhyt biografia tähän* -->
 
-Helsinki, email, GitHub, OpenHUB, [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) _jne. tähän?_
+🌍 Helsinki, Suomi | [email](mailto:suomalainen+cvfi@mikaela.info) |
+[GitHub](https://github.com/Mikaela) | [GitLab.com](https://gitlab.com/Mikaela)
+[OpenHUB](https://www.openhub.net/accounts/Mikaela) | [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/)
 
 ## Työkokemus
 
