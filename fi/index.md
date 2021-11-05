@@ -32,8 +32,8 @@
     käyttäjiemme kanssa (mm. Alankomaiden Piraattipuolue, Massachusetts:in piraattipuolue).
   * Suoritin siirtymän `TeleIRC`stä ja `Discord-IRC`stä `Matterbridge`en parempana
     ratkaisuna, jolloin `IRC` ei enää ole väliliima.
-  * Ylläpidän `Limnoria`-instanssia, joka mm. hakee linkitettyjen sivustojen otsikot
-    helpottaen useiden `IRC`- ja `Matrix`-asiakasohjelmien käyttäjiä, jotka eivät
+  * Ylläpidän `Limnoria`-instanssia, joka mm. seuraa `certificate transparency`-syötteitä, valvoo `Git-webhook`eja
+    hakee linkitettyjen sivustojen otsikot helpottaen useiden `IRC`- ja `Matrix`-asiakasohjelmien käyttäjiä, jotka eivät
     hae linkkien otsikoita käyttäjän puolesta.
   * Asetin piraattipuolueen `Discord`-palvelimelle roolipohjaisen pääsynhallinnan,
     jotta kaikki kanavat eivät näy kaikille vaan työrauhaa kaipaaville kanaville
