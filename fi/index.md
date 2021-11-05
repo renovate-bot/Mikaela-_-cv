@@ -90,13 +90,11 @@
   * Charybdis, Atheme, Ergo
   * KiwiIRC, Gamja
 
-<!--
-
 ## Harrastukset
 
-TODO
-
--->
+* Tietoturva, seuraan alan uutisia ja verkkoyhteisöjä (IRC, Matrix) jatkuvasti
+* Kielet
+* Lukeminen
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
