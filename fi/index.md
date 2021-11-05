@@ -101,6 +101,13 @@ TODO
 
 * 02.04.2019 - 04.2020, 10.2021-- *[Privacy Guides](https://privacyguides.org/)*
   * **Tiimin jäsen**
+  * Osallistun keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
+    asetan niille `label`eita helpottaen niiden lajittelua, sekä löytämistä jatkossa.
+  * Arvioin `pull request`eja.
+  * Osallistuin erityisesti salatun DNS-osion luomiseen keräten tietoja ratkaisuista
+    (`DNS over HTTPS`, `DNS over TLS`, `DNSCrypt`) ja seuraan niiden kehittymistä mielenkiinnolla.
+  * Osallistun tiedonhakuun ehdotetuista sovelluksista ja palveluista, arvioiden sopivatko
+    ne projektin kriteereihin.
 * 19.03.2020 -- *[Federated Networks Association ry (Feneas)](https://feneas.org/)*
   * **Komitean jäsen**
   * Avustan Feneaksen Matrix-huoneiden ylläpidossa, sekä keskustelen yhteisön
