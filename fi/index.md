@@ -21,7 +21,7 @@
   * Yhtenäistin piraattipuolueen IRC-kanavien hallinnan `Atheme`n `GroupServ`in
     alaisuuteen keskittäen pääsynhallinnan kymmenien eri kanavien omien listojen sijaan.
   * Ylläpidin puolueen kanavien yhdistämistä `IRC`stä `Slack`iin käyttäen `Slack`in
-    `IRC-gateway`tä sen ollessa tuettu, sekä ylläpidin Slack-työtilaa.
+    `IRC-gateway`tä sen ollessa tuettu, sekä ylläpidin `Slack`-työtilaa.
   * Pystytin `TeleIRC`:n ja `Discord-IRC`:n, jotta piraattipuolueen viestintä kulkee
     `IRC`n, `Discord`in ja `Telegram`min välillä.
   * Avustan PirateIRC:n oper-tiimiä -verkon ylläpidossa kommunikoiden mm.
