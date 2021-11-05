@@ -11,8 +11,11 @@
   * BACKEND-ohjelmointi käyttäen `JavaScript`/`Node.JS`
 * 03.2020 - 09.2020 *[Unicus Finland](https://unicus.com/fi/)*
   * **Työkokeilu**
-  * Ohjelmointiin ja testaukseen liittyvät tehtävät
-  * *ISTQB Foundation* -kokeeseen valmistautuminen
+  * Valmistauduin *ISTQB Foundation Level*-kokeeseen.
+  * Tutustuin pintapuolisesti ohjelmointiin mm. `Python 3`:lla, `Ruby`llä, `Go`lla.
+  * Tutustuin `Firefox`in kehittäjätyökaluihin, erityisesti saavutettavuustesteihin.
+  * Tutustuin *Web Content Accessibility Guidelines* -ohjeistukseen sekä saavutettavuustestaamiseen,
+    ja opin miten saavutettavuus auttaa myös minua itseäni.
 * 28.10.2019 - 19.12.2019 *Robuntu Osk*
   * **Moninaiset askareet osuuskunnan tukitoiminnoissa**
   * avustamista IT-toiminnoissa
