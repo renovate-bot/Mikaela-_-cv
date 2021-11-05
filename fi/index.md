@@ -92,6 +92,19 @@
 
 * 02.04.2019 - 04.2020, 10.2021-- *[Privacy Guides](https://privacyguides.org/)*
   * **Tiimin jäsen**
+* 19.03.2020 -- *[Federated Networks Association ry (Feneas)](https://feneas.org/)*
+  * **Komitean jäsen**
+  * Avustan Feneaksen Matrix-huoneiden ylläpidossa, sekä keskustelen yhteisön
+    kanssa.
+  * Avustan välillä `Matrix`-palvelimen tai `Element`-asiakasohjelman päivittämisessä
+    avaamalla `merge-requeste`jä `GitLab`in `Ansible-playbook`eja kohtaan.
+  * Olen Feneaksen ryhmäkontakti [LiberaChat] -IRC-verkolle kommunikoiden
+    molemmin puolin mikäli [LiberaChat]in kanssa on ongelmia tai toiseen suuntaan,
+    rekisteröin Feneaksen nimiavaruuden kanavia heidän verkossaan, toimin kanavaoperaattorina
+    ja vastaan vhostien pyytämisestä jäsenillemme näyttämään heidän yhteytensä
+    yhdistykseen.
+
+[LiberaChat]:https://libera.chat/
 
 <!-- ## Suosittelijat
 
