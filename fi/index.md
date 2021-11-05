@@ -75,6 +75,7 @@
 
 * Linux-ylläpito vuodesta 2008
   * Arch Linux, Debian, (Ubuntu, ) Fedora
+  * systemd
   * OpenSSHd, CUPS, UFW
   * Chrony NTP-palvelin
 * Git
