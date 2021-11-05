@@ -9,14 +9,14 @@
 * 13.09.2021-- *Digitalents Academy*
   * **Työkokeilu**
   * BACKEND-ohjelmointi käyttäen JavaScript/Node.JS
-* 03.2020 - 09.2020 *Unicus Finland*
+* 03.2020 - 09.2020 *[Unicus Finland](https://unicus.com/fi/)*
   * **Työkokeilu**
   * Ohjelmointiin ja testaukseen liittyvät tehtävät
   * ISTQB Foundation -kokeeseen valmistautuminen
 * 28.10.2019 - 19.12.2019 *Robuntu Osk*
   * **Moninaiset askareet osuuskunnan tukitoiminnoissa**
   * avustamista IT-toiminnoissa
-* 10.2015-- *Piraattipuolue r.p.*
+* 10.2015-- *[Piraattipuolue r.p.](https://piraattipuolue.fi/)*
   * **Verkkopalveluiden- ja Pikaviestinten ylläpito**
   * Debian- ja Ubuntu-palvelimien ylläpito
   * Gitea-palvelimen ylläpito
@@ -67,9 +67,7 @@
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
-* 10.2020-- *Privacy Guides*
-  * **Tiimin jäsen**
-* 02.04.2019 - 04.2020 *Privacy Tools*
+* 02.04.2019 - 04.2020, 10.2021-- *[Privacy Guides](https://privacyguides.org/)*
   * **Tiimin jäsen**
 
 <!-- ## Suosittelijat
