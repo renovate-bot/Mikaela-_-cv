@@ -18,14 +18,33 @@
   * avustamista IT-toiminnoissa
 * 10.2015-- *[Piraattipuolue r.p.](https://piraattipuolue.fi/)*
   * **Verkkopalveluiden- ja Pikaviestinten ylläpito**
-  * Debian- ja Ubuntu-palvelimien ylläpito
-  * Gitea-palvelimen ylläpito
-  * 2x Charybdis- ja Atheme -IRC-palvelin-sovelluksien ylläpito (leaf, hub, services)
-  * Ergo IRCd-palvelimen ylläpito
-  * Limnoria-ylläpito
-  * Matterbridge-ylläpito
-  * Discord-killan ylläpito
-  * Matrix-huoneiden/avaruuden -ylläpito
+  * Yhtenäistin piraattipuolueen IRC-kanavien hallinnan Athemen `GroupServ`:in
+    alaisuuteen keskittäen pääsynhallinnan kymmenien eri kanavien omien listojen sijaan.
+  * Pystytin TeleIRC:n ja Discord-IRC:n, jotta piraattipuolueen viestintä kulkee
+    IRCn, Discordin ja Telegrammin välillä.
+  * Avustan PirateIRC:n oper-tiimiä Charybdis-verkon ylläpidossa kommunikoiden mm.
+    Australian ja Ruotsin Piraattipuolueiden operaattoreiden kanssa, sekä
+    käyttäjiemme kanssa (mm. Alankomaiden Piraattipuolue, Massachusetts:in piraattipuolue).
+  * Suoritin siirtymän TeleIRC:stä ja Discord-IRC:stä Matterbridgeeen parempana
+    ratkaisuna, jolloin IRC ei enää ole väliliima.
+  * Ylläpidän Limnoria-instanssia, joka mm. hakee linkitettyjen sivustojen otsikot
+    helpottaen useiden IRC- ja Matrix-asiakasohjelmien käyttäjiä, jotka eivät
+    hae linkkien otsikoita käyttäjän puolesta.
+  * Asetin piraattipuolueen Discord-palvelimelle roolipohjaisen pääsynhallinnan,
+    jotta kaikki kanavat eivät näy kaikille vaan työrauhaa kaipaaville kanaville
+    pääsee kun käyttäjä on todettu asialliseksi.
+  * Avustan piraattipuolueen verkkopalveluiden ylläpidossa mukaanlukien
+    (Debian- ja Ubuntu-) käyttöjärjestelmien päivityksessä, systemd-yksiköiden
+    kirjoittamisessa, sekä ohjelmistojen päivittämisessä.
+  * Avustan sähköpostiohjausten, sekä postituslistojen luomisessa ja päivittämisessä CPanelilla.
+  * Avustan Nextcloudin ylläpidossa luoden tarpeen vaatiessa käyttäjätunnuksia puolueen
+    aktiiveille.
+  * Pystytin piraattipuolueelle Matrix-huoneita, sekä -avaruuksia, jotta
+    -puolueen pikaviestintään pääsee osallistumaan myös sieltä Discord-tyylisellä
+    manuaalisella pääsynhallinnalla.
+  * Avustan PirateIRC-verkkoa siirtymisessä neljästä Charybdis-IRC-palvelimesta ja
+    Atheme IRC-palveluista modernimpaan Ergo IRCd-ratkaisuun, joka yhdistää -palvelimen
+    ja -palvelut.
 
 ## Koulutus
 
