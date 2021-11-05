@@ -98,7 +98,7 @@
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
-* 02.04.2019 - 04.2020, 10.2021-- *[Privacy Guides](https://privacyguides.org/)*
+* 02.04.2019 - 19.04.2020, 07.10.2021-- *[Privacy Guides](https://privacyguides.org/)*
   * **Tiimin jäsen**
   * Osallistun keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
     asetan niille `label`eita helpottaen niiden lajittelua, sekä löytämistä jatkossa.
