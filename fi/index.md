@@ -89,7 +89,13 @@
   * Charybdis, Atheme, Ergo
   * KiwiIRC, Gamja
 
+<!--
+
 ## Harrastukset
+
+TODO
+
+-->
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
