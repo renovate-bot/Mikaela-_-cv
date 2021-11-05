@@ -45,7 +45,7 @@
   * Avustan PirateIRC-verkkoa siirtymisessä neljästä `Charybdis`-`IRC`-palvelimesta ja
     `Atheme IRC`-palveluista modernimpaan `Ergo IRCd`-ratkaisuun, joka yhdistää -palvelimen
     ja -palvelut.
-  * Kommunikoin aktiivisesti puolueen käyttämien ohjelmistojen `upstreamin` kanssa,
+  * Kommunikoin aktiivisesti puolueen käyttämien ohjelmistojen upstreamin kanssa,
     erityisesti `Charybdis`:ksen, `Atheme`n, `Ergo`n, `Limnoria`n ja `Gitea`n kanssa.
 
 ## Koulutus
