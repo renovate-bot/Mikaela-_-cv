@@ -17,8 +17,10 @@
   * Tutustuin *Web Content Accessibility Guidelines* -ohjeistukseen sekä saavutettavuustestaamiseen,
     ja opin miten saavutettavuus auttaa myös minua itseäni.
 * 28.10.2019 - 19.12.2019 *Robuntu Osk*
-  * **Moninaiset askareet osuuskunnan tukitoiminnoissa**
-  * avustamista IT-toiminnoissa
+  * **Työkokeilu**
+  * Suoritin moninaisia askareita osuuskunnan tukitoiminnoissa.
+  * Avustin osuuskunnan palveluiden markkinoinnissa tutustumalla Thunderbird-laajennuksilla
+    tapahtuvaan massaviestintään asiakkaille, sekä Facebook Marketplace:en.
 * 10.2015-- *[Piraattipuolue r.p.](https://piraattipuolue.fi/)*
   * **Verkkopalveluiden- ja Pikaviestinten ylläpito**
   * Yhtenäistin piraattipuolueen IRC-kanavien hallinnan `Atheme`n `GroupServ`in
