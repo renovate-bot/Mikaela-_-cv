@@ -128,6 +128,14 @@
 
 [LiberaChat]:https://libera.chat/
 
+<!--
+
+## Yhteiskunnallinen ja poliittinen toiminta
+
+Kommentoitu aikaongelman vuoksi, palautetaan oikeasti tekstiä ollesssa
+
+-->
+
 <!-- ## Suosittelijat
 
 Lisätään tähän kun heitä on
