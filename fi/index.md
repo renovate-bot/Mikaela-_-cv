@@ -137,7 +137,7 @@
 * Piraattipuolueen Helsingin piiriyhdistys, hallituksen varajäsen
   * 2017-2018, 2019-2021
 * Suomen autismikirjon yhdistys, hallituksen varajäsen
-  * 14.04.2018 12.04.2018
+  * 14.04.2018 - 12.04.2019
 
 <!-- ## Suosittelijat
 
