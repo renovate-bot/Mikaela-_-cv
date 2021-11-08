@@ -128,13 +128,16 @@
 
 [LiberaChat]:https://libera.chat/
 
-<!--
-
 ## Yhteiskunnallinen ja poliittinen toiminta
 
-Kommentoitu aikaongelman vuoksi, palautetaan oikeasti tekstiä ollesssa
-
--->
+* Piraattipuolueen puoluevaltuusto
+  * 26.09.2020--
+* Piraattinuorten hallitus
+  * Jäsen 2017-06.06.2018, varajäsen 2018-2019-01-11, 19.01.2020--
+* Piraattipuolueen Helsingin piiriyhdistys, hallituksen varajäsen
+  * 2017-2018, 2019-2021
+* Suomen autismikirjon yhdistys, hallituksen varajäsen
+  * 14.04.2018 12.04.2018
 
 <!-- ## Suosittelijat
 
