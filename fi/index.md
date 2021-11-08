@@ -19,8 +19,8 @@
 * 28.10.2019 - 19.12.2019 *Robuntu Osk*
   * **Työkokeilu**
   * Suoritin moninaisia askareita osuuskunnan tukitoiminnoissa.
-  * Avustin osuuskunnan palveluiden markkinoinnissa tutustumalla Thunderbird-laajennuksilla
-    tapahtuvaan massaviestintään asiakkaille, sekä Facebook Marketplace:en.
+  * Avustin osuuskunnan palveluiden markkinoinnissa tutustumalla `Thunderbird`-laajennuksilla
+    tapahtuvaan massaviestintään asiakkaille, sekä `Facebook Marketplace`en.
 * 10.2015-- *[Piraattipuolue r.p.](https://piraattipuolue.fi/)*
   * **Verkkopalveluiden- ja Pikaviestinten ylläpito**
   * Yhtenäistin piraattipuolueen IRC-kanavien hallinnan `Atheme`n `GroupServ`in
@@ -51,9 +51,9 @@
   * Pystytin piraattipuolueelle `Matrix`-huoneita, sekä -avaruuksia, jotta
     puolueen pikaviestintään pääsee osallistumaan myös sieltä `Discord`-tyylisellä
     manuaalisella pääsynhallinnalla.
-  * Kommunikoin Itävallan piraattipuolueen kanssa, Suomen piraattipuolueen matterbridge käyttää heidän Matrix-palvelintaan
-    ja ylläpidän Matterbridgellä toistinta heidän vetämässään kansainvälisten piraattipuolueiden keskustelukanavalla (Global Pirates)
-    heidän Mattermost-palvelimellaan, Matrixissa, Telegrammissa, Discordissa, PirateIRCssä.
+  * Kommunikoin Itävallan piraattipuolueen kanssa, Suomen piraattipuolueen `matterbridge` käyttää heidän `Matrix`-palvelintaan
+    ja ylläpidän `Matterbridge`llä toistinta heidän vetämässään kansainvälisten piraattipuolueiden keskustelukanavalla (Global Pirates)
+    heidän `Mattermost`-palvelimellaan, `Matrix`issa, `Telegram`missa, `Discord`issa, `PirateIRC`ssä.
   * Avustan PirateIRC-verkkoa siirtymisessä neljästä `Charybdis`-`IRC`-palvelimesta ja
     `Atheme IRC`-palveluista modernimpaan `Ergo IRCd`-ratkaisuun, joka yhdistää IRC-palvelimen
     ja IRC-palvelut.
