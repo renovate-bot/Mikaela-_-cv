@@ -100,6 +100,9 @@
 ## Harrastukset
 
 * Tietoturva, seuraan alan uutisia ja verkkoyhteisöjä (IRC, Matrix) jatkuvasti
+* "Ohjelmistotestaus", löydän usein käyttämistäni ohjelmista ongelmia tai
+  puuttuvia ominaisuuksia ja selkeän ongelmanraportointikanavan ollessa olemassa
+  myös ilmoitan siitä.
 * Kielet
 * Lukeminen
 * Puoluetoiminta, olen aktiivinen Piraattipuolueessa ja kun Helsingissä kampanjoidaan
