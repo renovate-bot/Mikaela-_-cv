@@ -30,6 +30,8 @@
   * Avustan PirateIRC:n oper-tiimiä -verkon ylläpidossa kommunikoiden mm.
     Australian ja Ruotsin Piraattipuolueiden operaattoreiden kanssa, sekä
     käyttäjiemme kanssa (mm. Alankomaiden Piraattipuolue, Massachusetts:in piraattipuolue).
+  * Toimin PirateIRC:n kontaktihenkilönä Intian Piraattien ylläpitämälle Matrix-sillalle,
+    avustaen PirateIRC-päädyn asetusten kanssa, jotta silta voitiin pystyttää.
   * Suoritin siirtymän `TeleIRC`stä ja `Discord-IRC`stä `Matterbridge`en parempana
     ratkaisuna, jolloin `IRC` ei enää ole väliliima.
   * Ylläpidän `Limnoria`-instanssia, joka mm. seuraa `certificate transparency`-syötteitä, valvoo `Git-webhook`eja
@@ -47,6 +49,9 @@
   * Pystytin piraattipuolueelle `Matrix`-huoneita, sekä -avaruuksia, jotta
     puolueen pikaviestintään pääsee osallistumaan myös sieltä `Discord`-tyylisellä
     manuaalisella pääsynhallinnalla.
+  * Kommunikoin Itävallan piraattipuolueen kanssa, Suomen piraattipuolueen matterbridge käyttää heidän Matrix-palvelintaan
+    ja ylläpidän Matterbridgellä toistinta heidän vetämässään kansainvälisten piraattipuolueiden keskustelukanavalla (Global Pirates)
+    heidän Mattermost-palvelimellaan, Matrixissa, Telegrammissa, Discordissa, PirateIRCssä.
   * Avustan PirateIRC-verkkoa siirtymisessä neljästä `Charybdis`-`IRC`-palvelimesta ja
     `Atheme IRC`-palveluista modernimpaan `Ergo IRCd`-ratkaisuun, joka yhdistää IRC-palvelimen
     ja IRC-palvelut.
