@@ -127,7 +127,7 @@
   * Olen Feneaksen ryhmäkontakti [LiberaChat] -IRC-verkolle kommunikoiden
     molemmin puolin mikäli [LiberaChat]in kanssa on ongelmia tai toiseen suuntaan,
     rekisteröin Feneaksen nimiavaruuden kanavia heidän verkossaan, toimin kanavaoperaattorina
-    ja vastaan vhostien pyytämisestä jäsenillemme näyttämään heidän yhteytensä
+    ja vastaan `vhost`ien pyytämisestä jäsenillemme näyttämään heidän yhteytensä
     yhdistykseen.
 
 [LiberaChat]:https://libera.chat/
