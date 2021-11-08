@@ -132,4 +132,4 @@ Lisätään tähän kun heitä on
 
 -->
 
-<small>Muokkauspäivämäärä: KESKENERÄINEN</small>
+<small>Päiväys: KESKENERÄINEN</small>
