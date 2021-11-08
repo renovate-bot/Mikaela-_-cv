@@ -102,6 +102,10 @@
 * Tietoturva, seuraan alan uutisia ja verkkoyhteisöjä (IRC, Matrix) jatkuvasti
 * Kielet
 * Lukeminen
+* Puoluetoiminta, olen aktiivinen Piraattipuolueessa ja kun Helsingissä kampanjoidaan
+  olen mukana avustamassa kampanjoinnissa mm. keskustellen ihmisten kanssa,
+  jakaen flaikkuja, keittäen kahvia, tai avustamassa vaalikontin ruudun diaesitysten
+  käynnistämisessä
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
