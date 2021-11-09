@@ -138,7 +138,7 @@
 ## Yhteiskunnallinen ja poliittinen toiminta
 
 * Piraattipuolueen puoluevaltuusto
-  * 26.09.2020--
+  * Varajäsen 26.09.2020-25.02.2021, varsinainen jäsen 25.02.2021-- <!-- 26.09.2020 eteenpäin on sama hallituskausi, kaksi varsinaista poistui, joten "päivitys" -->
 * Piraattinuorten hallitus
   * Jäsen 2017-06.06.2018, varajäsen 2018-2019-01-11, 19.01.2020--
 * Piraattipuolueen Helsingin piiriyhdistys, hallituksen varajäsen
