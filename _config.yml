@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: CV
 description: Mikaela Suomalainen
+timezone: Europe/Helsinki
+encoding: utf-8
+plugins:
+  - jekyll-sitemap
+sitemap:
+  file: "/sitemap.xml"
