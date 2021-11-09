@@ -22,7 +22,7 @@
   * Avustin osuuskunnan palveluiden markkinoinnissa tutustumalla `Thunderbird`-laajennuksilla
     tapahtuvaan massaviestintään asiakkaille, sekä `Facebook Marketplace`en.
 * 10.2015-- *[Piraattipuolue r.p.](https://piraattipuolue.fi/)*
-  * **Verkkopalveluiden- ja Pikaviestinten ylläpito**
+  * **Verkkopalveluiden- ja Pikaviestinten ylläpito** <!-- Pikaviestintiimi perustettiin virallisesti 27.03.2018, verkkopalveluiden selvitys 06.08.2019 ja IT-tiimi on ollut 11.12.2019 -->
   * Yhtenäistin piraattipuolueen IRC-kanavien hallinnan `Atheme`n `GroupServ`in
     alaisuuteen keskittäen pääsynhallinnan kymmenien eri kanavien omien listojen sijaan.
   * Ylläpidin puolueen kanavien yhdistämistä `IRC`stä `Slack`iin käyttäen `Slack`in
