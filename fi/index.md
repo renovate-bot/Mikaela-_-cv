@@ -74,9 +74,9 @@
 
 ## Kielitaito
 
-* Äidinkieli: suomi
-* B2: englanti
-* A1: esperanto
+* suomi `🌟🌟🌟` <! -- äidinkieli -->
+* englanti `⭐⭐⚫` <! -- CEFRL: B2 -->
+* esperanto `⭐⚫⚫` <!-- CEFRL: A1 -->
 
 ## IT-Taidot
 
