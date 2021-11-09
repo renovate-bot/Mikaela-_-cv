@@ -103,12 +103,12 @@
 * "Ohjelmistotestaus", löydän usein käyttämistäni ohjelmista ongelmia tai
   puuttuvia ominaisuuksia ja selkeän ongelmanraportointikanavan ollessa olemassa
   myös ilmoitan siitä.
-* Kielet
-* Lukeminen
 * Puoluetoiminta, olen aktiivinen Piraattipuolueessa ja kun Helsingissä kampanjoidaan
   olen mukana avustamassa kampanjoinnissa mm. keskustellen ihmisten kanssa,
   jakaen flaikkuja, keittäen kahvia, tai avustamassa vaalikontin ruudun diaesitysten
   käynnistämisessä
+* Kielet
+* Lukeminen
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
