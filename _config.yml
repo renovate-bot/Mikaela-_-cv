@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: CV
 description: Mikaela Suomalainen
+baseurl: "/cv/" # the subpath of your site, e.g. /blog/
+url: "https://mikaela.info" # the base hostname & protocol for your site
 timezone: Europe/Helsinki
 encoding: utf-8
 plugins:
