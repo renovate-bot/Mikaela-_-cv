@@ -54,7 +54,7 @@
   * Kommunikoin Itävallan piraattipuolueen kanssa, Suomen piraattipuolueen `matterbridge` käyttää heidän `Matrix`-palvelintaan
     ja ylläpidän `Matterbridge`llä toistinta heidän vetämässään kansainvälisten piraattipuolueiden keskustelukanavalla (Global Pirates)
     heidän `Mattermost`-palvelimellaan, `Matrix`issa, `Telegram`missa, `Discord`issa, `PirateIRC`ssä.
-  * Avustan PirateIRC-verkkoa siirtymisessä neljästä `Charybdis`-`IRC`-palvelimesta ja
+  * Avustin PirateIRC-verkkoa siirtymisessä neljästä `Charybdis`-`IRC`-palvelimesta ja
     `Atheme IRC`-palveluista modernimpaan `Ergo IRCd`-ratkaisuun, joka yhdistää IRC-palvelimen
     ja IRC-palvelut.
   * Kommunikoin aktiivisesti puolueen käyttämien ohjelmistojen upstreamin kanssa,
