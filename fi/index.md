@@ -1,8 +1,9 @@
 ---
 date: 2021-11-10 12:36:59 +0200
+excerpt: {{ site.biosuomi }}
 ---
 
-<!-- *Lyhyt biografia tähän* -->
+<!-- {{ site.biosuomi }} -->
 
 🌍 Helsinki, Suomi / [email](mailto:suomalainen+cvfi@mikaela.info) /
 [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
