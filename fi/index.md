@@ -1,3 +1,7 @@
+---
+date: 2021-11-11 10:22:00 +0200
+---
+
 <!-- *Lyhyt biografia tähän* -->
 
 🌍 Helsinki, Suomi / [email](mailto:suomalainen+cvfi@mikaela.info) /
