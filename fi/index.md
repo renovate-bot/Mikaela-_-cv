@@ -79,9 +79,9 @@ excerpt: {{ site.biosuomi }}
 
 ## Kielitaito
 
-* suomi `🌟🌟🌟` <!-- äidinkieli -->
-* englanti `⭐⭐⚫` <!-- CEFRL: B2 -->
-* esperanto `⭐⚫⚫` <!-- CEFRL: A1 -->
+* suomi `🌟🌟🌟🌟🌟🌟` (äidinkieli)
+* englanti `⭐⭐⭐⚫⚫⚫` (CEFRL: B2)
+* esperanto `⭐⚫⚫⚫⚫⚫` (CEFRL: A1)
 
 ## IT-Taidot
 
