@@ -153,4 +153,4 @@ Lisätään tähän kun heitä on
 
 -->
 
-<small>Päiväys: KESKENERÄINEN</small>
+<small>Päiväys: {{ page.date }}</small>
