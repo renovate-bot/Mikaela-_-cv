@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: CV
-description: Mikaela Suomalainen, datanomi
+description: Mikaela Suomalainen, verkkopalveluylläpitäjä
 baseurl: "/cv/" # the subpath of your site, e.g. /blog/
 url: "https://mikaela.info" # the base hostname & protocol for your site
 timezone: Europe/Helsinki
@@ -10,7 +10,7 @@ plugins:
 sitemap:
   file: "/sitemap.xml"
 biosuomi: >
-    <em>Lyhyt esittelyteksti on tulossa tähän...</em>
+    <em>Mikaela Suomalainen on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa</em>
 bioenglish: >
     <em>Short introduction text is coming here soon...</em>
 # This is a bit silly considering it's manually copied version from mikaela.info
