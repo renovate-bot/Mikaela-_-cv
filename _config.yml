@@ -5,6 +5,9 @@ baseurl: "/cv/" # the subpath of your site, e.g. /blog/
 url: "https://mikaela.info" # the base hostname & protocol for your site
 timezone: Europe/Helsinki
 encoding: utf-8
+safe: true
+whitelist:
+  - jekyll-sitemap
 plugins:
   - jekyll-sitemap
 sitemap:
