@@ -5,9 +5,10 @@ baseurl: "/cv/" # the subpath of your site, e.g. /blog/
 url: "https://mikaela.info" # the base hostname & protocol for your site
 timezone: Europe/Helsinki
 encoding: utf-8
-safe: true
-whitelist:
-  - jekyll-sitemap
+# These had no effect in attempt to get rid of jekyll-seo-tag
+#safe: true
+#whitelist:
+#  - jekyll-sitemap
 plugins:
   - jekyll-sitemap
 sitemap:
