@@ -1,5 +1,6 @@
 ---
 date: 2021-11-10 12:36:59 +0200
+categories: cvsuomeksi
 ---
 
 {{ site.biosuomi }}
