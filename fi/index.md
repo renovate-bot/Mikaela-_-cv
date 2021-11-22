@@ -87,7 +87,7 @@ categories: cvsuomeksi
 
 * Linux-ylläpito vuodesta 2008
   * Arch Linux, Debian, (Ubuntu, ) Fedora
-  * systemd
+  * systemd (`system/user unit`s (palvelut, ajastimet), networkd, resolved, timesyncd…)
   * OpenSSHd, CUPS, UFW
   * Chrony NTP-palvelin
 * Git
