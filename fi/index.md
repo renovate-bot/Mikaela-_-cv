@@ -113,6 +113,17 @@ categories: cvsuomeksi
   jakaen flaikkuja, keittäen kahvia, tai avustamassa vaalikontin ruudun diaesitysten
   käynnistämisessä
 * Kielet
+* 11.07.2014-- Mikaela.info -kotisivuni ylläpito ja blogin kirjoitus
+  * **Webmaster** <!-- https://en.wikipedia.org/wiki/Webmaster vahvistaa termin olevan ok -->
+  * Rekisteröin domainin `Gandi`lla, käytin pitkään `Cloudflare`n `DNS`-palveluita
+    ennen siirtymistäni takaisin `Gandi`n omaan palveluun, johon tuli tänä aikana
+    myös `DNSSEC`-tuki.
+  * Ylläpidän sivua `GitHub-pages`issa, kirjoitin sen alunperin `HTML+CSS`, siirtyen
+    myöhemmin `Jekyll` -`CMS`ään, joka generoi staattisia sivuja.
+  * Kirjoitan sivustolle blogiini moninaisista aiheista, kuten elämästäni ja
+    teknisemmistä aiheista, kuten `IRC`- ja `Matrix`-protokollista.
+  * Pohdin sivun `issue tracker`issa usein mitä voisin parantaa, mitä voisin
+    blogata ja usein sisällytän mukaan pääpiirteittäin mistä haluan kirjoittaa.
 * Lukeminen
 
 ## Luottamustehtävät / vapaa-ehtoistyö
