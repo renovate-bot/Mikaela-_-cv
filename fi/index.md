@@ -1,5 +1,5 @@
 ---
-date: 2021-11-10 12:36:59 +0200
+date: 2021-11-23 19:13:55 +0200
 categories: cvsuomeksi
 ---
 
@@ -128,14 +128,14 @@ categories: cvsuomeksi
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
-* 02.04.2019 - 19.04.2020, 07.10.2021-- *[Privacy Guides](https://privacyguides.org/)*
+* 02.04.2019 - 19.04.2020, 07.10.2021-23.11.2021 *[Privacy Guides](https://privacyguides.org/)*
   * **Tiimin jäsen**
-  * Osallistun keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
-    asetan niille `label`eita helpottaen niiden lajittelua, sekä löytämistä jatkossa.
+  * Osallistuin keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
+    asetin niille `label`eita helpottaen niiden lajittelua, sekä löytämistä jatkossa.
   * Arvioin `pull request`eja.
   * Osallistuin erityisesti salatun DNS-osion luomiseen keräten tietoja ratkaisuista
     (`DNS over HTTPS`, `DNS over TLS`, `DNSCrypt`) ja seuraan niiden kehittymistä mielenkiinnolla.
-  * Osallistun tiedonhakuun ehdotetuista sovelluksista ja palveluista, arvioiden sopivatko
+  * Osallistuin tiedonhakuun ehdotetuista sovelluksista ja palveluista, arvioiden sopivatko
     ne projektin kriteereihin.
 * 19.03.2020 -- *[Federated Networks Association ry (Feneas)](https://feneas.org/)*
   * **Komitean jäsen**
