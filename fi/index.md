@@ -170,13 +170,8 @@ Lisätään tähän kun heitä on
 
 -->
 
-<small><table>
-  <tr>
-    <td>Versio</td>
-    <td>Päiväys</td>
-  </tr>
-  <tr>
-    <td>{{ page.versionstring }}</td>
-    <td>{{ page.date }}</td>
-  </tr>
-</table></small>
+<small>
+Versio|Päiväys
+-----|-----
+{{ page.versionstring }}|{{ page.date }}
+</small>
