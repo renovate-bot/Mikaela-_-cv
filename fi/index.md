@@ -170,8 +170,6 @@ Lisätään tähän kun heitä on
 
 -->
 
-<small>
 Versio|Päiväys
 -----|-----
 {{ page.versionstring }}|{{ page.date }}
-</small>
