@@ -1,6 +1,7 @@
 ---
 date: 2021-11-23 19:13:55 +0200
 categories: cvsuomeksi
+versionString: 2021.48.0
 ---
 
 *{{ site.biosuomi }}*
@@ -169,4 +170,4 @@ Lisätään tähän kun heitä on
 
 -->
 
-<small>Päiväys: {{ page.date }}</small>
+<small>Päiväys: {{ page.date }}, versio: {{ page.versionString }}</small>
