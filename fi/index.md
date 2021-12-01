@@ -1,6 +1,6 @@
 ---
-versionString: 2021.48.1
-date: 2021-12-01 10:07:15 +0200
+versionString: 2021.48.2
+date: 2021-12-01 10:09:10 +0200
 categories: cvsuomeksi
 ---
 
@@ -170,6 +170,8 @@ Lisätään tähän kun heitä on
 
 -->
 
+* * * * *
+
 Versio|Päiväys
 -----|-----
-{{ page.versionstring }} | {{ page.date }}
+{{ page.versionString }}|{{ page.date }}
