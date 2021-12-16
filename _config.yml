@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: CV
-description: Mikaela Suomalainen, verkkopalveluylläpitäjä/web service administrator
+description: Mikaela Aminda Henriikka Maini Suomalainen, verkkopalveluylläpitäjä/web service administrator
 baseurl: "/cv/" # the subpath of your site, e.g. /blog/
 url: "https://mikaela.info" # the base hostname & protocol for your site
 timezone: Europe/Helsinki
@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 sitemap:
   file: "/sitemap.xml"
-biosuomi: "Mikaela Suomalainen on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa"
+biosuomi: "Aminda Suomalainen on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa"
 bioenglish: "Short introduction text is coming here soon..."
 # This is a bit silly considering it's manually copied version from mikaela.info
 icon: https://bafybeian33l6hrvjoapve7dxbghs2ej4zeya2cgoldrqo3tm5id7tj6uey.ipfs.dweb.link/128.jpeg
