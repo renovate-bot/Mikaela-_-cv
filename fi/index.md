@@ -1,6 +1,6 @@
 ---
-versionString: 2021.48.2
-date: 2021-12-01 10:09:10 +0200
+versionString: 2021.52.0
+date: 2022-01-01 14:15:45 +0200
 categories: cvsuomeksi
 ---
 
@@ -12,9 +12,12 @@ categories: cvsuomeksi
 
 ## Työkokemus
 
-* 13.09.2021-- *Digitalents Academy*
+* 13.09.2021-26.11.2021 *Digitalents Academy*
   * **Työkokeilu**
-  * BACKEND-ohjelmointi käyttäen `JavaScript`/`Node.JS`
+  * Loin GitHub-pages pohjaisen CV:n (mikaela.info/cv).
+  * Tutustuin `Python`in ja `JavaScript`in perusteisiin.
+  * Tutustuin pintapuolisesti `Flask`-web-frameworkiin.
+  * Avustin muita työkokeilijoita `git`in käytössä.
 * 03.2020 - 09.2020 *[Unicus Finland](https://unicus.com/fi/)*
   * **Työkokeilu**
   * Valmistauduin *ISTQB Foundation Level*-kokeeseen.
