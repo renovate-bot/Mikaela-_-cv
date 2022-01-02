@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: CV
 description: Mikaela A͟m͟i͟n͟d͟a͟ Henriikka Maini Suomalainen, verkkopalveluylläpitäjä/web service administrator
-baseurl: "/cv/" # the subpath of your site, e.g. /blog/
-url: "https://mikaela.info" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://cv.aminda.eu" # the base hostname & protocol for your site
 timezone: Europe/Helsinki
 encoding: utf-8
 # These had no effect in attempt to get rid of jekyll-seo-tag
