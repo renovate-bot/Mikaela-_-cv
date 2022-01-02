@@ -1,6 +1,6 @@
 ---
-versionString: 2021.52.0
-date: 2022-01-01 14:15:45 +0200
+versionString: 2021.52.1
+date: 2022-01-02 21:17:15 +0200
 categories: cvsuomeksi
 ---
 
@@ -14,7 +14,7 @@ categories: cvsuomeksi
 
 * 13.09.2021-26.11.2021 *Digitalents Academy*
   * **Työkokeilu**
-  * Loin GitHub-pages pohjaisen CV:n (mikaela.info/cv).
+  * Loin GitHub-pages pohjaisen CV:n (cv.aminda.eu).
   * Tutustuin `Python`in ja `JavaScript`in perusteisiin.
   * Tutustuin pintapuolisesti `Flask`-web-frameworkiin.
   * Avustin muita työkokeilijoita `git`in käytössä.

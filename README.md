@@ -1,6 +1,6 @@
 # CV on Jekyll/markdown
 
-* [Live version](https://mikaela.info/cv/)
+* [Live version](https://cv.aminda.eu/)
 
 This CV is inpired by [Carolyn Stransky's Creating a digital CV in Markdown on GitHub](https://workwithcarolyn.com/blog/digital-cv-guide)
 and intented to *contain everything* and be source for *copy-pasting to CVs
