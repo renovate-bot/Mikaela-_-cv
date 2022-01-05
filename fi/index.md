@@ -132,6 +132,13 @@ categories: cvsuomeksi
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
+* 19.11.2021 -- *FluffyChat suomentaja*
+  * Käänsin `FluffyChat` `Matrix`-asiakasohjelman suomenkielelle, sekä päivitän
+    niitä kehityksen tapahtuessa `Weblate`-käännöstyökalulla.
+  * Keskustelen muiden kääntäjien kanssa alkuperäisten viestien
+    merkityksestä, miten ne on käännetty muille kielille tai mitä erityistä
+    merkitystä niillä tarkoitetaan.
+  * Seuraan Matrix Suomen keskusteluita ja palautetta käännöksestä.
 * 02.04.2019 - 19.04.2020, 07.10.2021-23.11.2021 *[Privacy Guides](https://privacyguides.org/)*
   * **Tiimin jäsen**
   * Osallistuin keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
