@@ -1,6 +1,6 @@
 ---
-versionString: 2021.52.1
-date: 2022-01-02 21:17:15 +0200
+versionString: 2021.01.0
+date: 2022-01-05 19:47:10 +0200
 categories: cvsuomeksi
 ---
 
@@ -10,26 +10,35 @@ categories: cvsuomeksi
 [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
 [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [OpenHub](https://www.openhub.net/accounts/Mikaela)
 
-## Työkokemus
+## Luottamustehtävät / vapaa-ehtoistyö
 
-* 13.09.2021-26.11.2021 *Digitalents Academy*
-  * **Työkokeilu**
-  * Loin GitHub-pages pohjaisen CV:n (cv.aminda.eu).
-  * Tutustuin `Python`in ja `JavaScript`in perusteisiin.
-  * Tutustuin pintapuolisesti `Flask`-web-frameworkiin.
-  * Avustin muita työkokeilijoita `git`in käytössä.
-* 03.2020 - 09.2020 *[Unicus Finland](https://unicus.com/fi/)*
-  * **Työkokeilu**
-  * Valmistauduin *ISTQB Foundation Level*-kokeeseen.
-  * Tutustuin pintapuolisesti ohjelmointiin mm. `Python 3`:lla, `Ruby`llä, `Go`lla.
-  * Tutustuin `Firefox`in kehittäjätyökaluihin, erityisesti saavutettavuustesteihin.
-  * Tutustuin *Web Content Accessibility Guidelines* -ohjeistukseen sekä saavutettavuustestaamiseen,
-    ja opin miten saavutettavuus auttaa myös minua itseäni.
-* 28.10.2019 - 19.12.2019 *Robuntu Osk*
-  * **Työkokeilu**
-  * Suoritin moninaisia askareita osuuskunnan tukitoiminnoissa.
-  * Avustin osuuskunnan palveluiden markkinoinnissa tutustumalla `Thunderbird`-laajennuksilla
-    tapahtuvaan massaviestintään asiakkaille, sekä `Facebook Marketplace`en.
+* 19.11.2021 -- *FluffyChat suomentaja*
+  * Käänsin `FluffyChat` `Matrix`-asiakasohjelman suomenkielelle, sekä päivitän
+    niitä kehityksen tapahtuessa `Weblate`-käännöstyökalulla.
+  * Keskustelen muiden kääntäjien kanssa alkuperäisten viestien
+    merkityksestä, miten ne on käännetty muille kielille tai mitä erityistä
+    merkitystä niillä tarkoitetaan.
+  * Seuraan Matrix Suomen keskusteluita ja palautetta käännöksestä.
+* 02.04.2019 - 19.04.2020, 07.10.2021-23.11.2021 *[Privacy Guides](https://privacyguides.org/)*
+  * **Tiimin jäsen**
+  * Osallistuin keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
+    asetin niille `label`eita helpottaen niiden lajittelua, sekä löytämistä jatkossa.
+  * Arvioin `pull request`eja.
+  * Osallistuin erityisesti salatun DNS-osion luomiseen keräten tietoja ratkaisuista
+    (`DNS over HTTPS`, `DNS over TLS`, `DNSCrypt`) ja seuraan niiden kehittymistä mielenkiinnolla.
+  * Osallistuin tiedonhakuun ehdotetuista sovelluksista ja palveluista, arvioiden sopivatko
+    ne projektin kriteereihin.
+* 19.03.2020 -- *[Federated Networks Association ry (Feneas)](https://feneas.org/)*
+  * **Komitean jäsen**
+  * Avustan Feneaksen Matrix-huoneiden ylläpidossa, sekä keskustelen yhteisön
+    kanssa.
+  * Avustan välillä `Matrix`-palvelimen tai `Element`-asiakasohjelman päivittämisessä
+    avaamalla `merge-requeste`jä `GitLab`in `Ansible-playbook`eja kohtaan.
+  * Olen Feneaksen ryhmäkontakti [LiberaChat] -IRC-verkolle kommunikoiden
+    molemmin puolin mikäli [LiberaChat]in kanssa on ongelmia tai toiseen suuntaan,
+    rekisteröin Feneaksen nimiavaruuden kanavia heidän verkossaan, toimin kanavaoperaattorina
+    ja vastaan `vhost`ien pyytämisestä jäsenillemme näyttämään heidän yhteytensä
+    yhdistykseen.
 * 10.2015-- *[Piraattipuolue r.p.](https://piraattipuolue.fi/)*
   * **Verkkopalveluiden- ja Pikaviestinten ylläpito** <!-- Pikaviestintiimi perustettiin virallisesti 27.03.2018, verkkopalveluiden selvitys 06.08.2019 ja IT-tiimi on ollut 11.12.2019 -->
   * Yhtenäistin piraattipuolueen IRC-kanavien hallinnan `Atheme`n `GroupServ`in
@@ -69,23 +78,7 @@ categories: cvsuomeksi
   * Kommunikoin aktiivisesti puolueen käyttämien ohjelmistojen upstreamin kanssa,
     erityisesti `Charybdis`:ksen, `Atheme`n, `Ergo`n, `Limnoria`n ja `Gitea`n kanssa.
 
-## Koulutus
-
-* 08.08.2012 - 29.05.2015 *Etelä-Kymenlaakson ammattiopisto (Hamina)*
-  * **Tieto- ja viestintätekniikan perustutkinto (käytön tuen koulutusohjelma), Datanomi**
-
-## Kurssit ja muu koulutus
-
-<!-- * 25.05.2015 - TIEKE: Tietokoneen käyttäjän A-kortti -->
-* 25.05.2015 - TIEKE: Tietokoneen käyttäjän AB-kortti
-* 16.09.2014 - CCNA Discovery: Working at a Small-to-Medium Business or ISP
-* 28.04.2014 - CCNA Discovery: Networking for Home and Small Businesses
-
-## Kielitaito
-
-* suomi `🌟🌟🌟🌟🌟🌟` (äidinkieli)
-* englanti `⭐⭐⭐⭐⚫⚫` (CEFRL: B2)
-* esperanto `⭐⚫⚫⚫⚫⚫` (CEFRL: A1)
+[LiberaChat]:https://libera.chat/
 
 ## IT-Taidot
 
@@ -105,6 +98,45 @@ categories: cvsuomeksi
 * IRC
   * Charybdis, Atheme, Ergo
   * KiwiIRC, Gamja
+
+## Kielitaito
+
+* suomi `🌟🌟🌟🌟🌟🌟` (äidinkieli)
+* englanti `⭐⭐⭐⭐⚫⚫` (CEFRL: B2)
+* esperanto `⭐⚫⚫⚫⚫⚫` (CEFRL: A1)
+
+## Työkokemus
+
+* 13.09.2021-26.11.2021 *Digitalents Academy*
+  * **Työkokeilu**
+  * Loin GitHub-pages pohjaisen CV:n (cv.aminda.eu).
+  * Tutustuin `Python`in ja `JavaScript`in perusteisiin.
+  * Tutustuin pintapuolisesti `Flask`-web-frameworkiin.
+  * Avustin muita työkokeilijoita `git`in käytössä.
+* 03.2020 - 09.2020 *[Unicus Finland](https://unicus.com/fi/)*
+  * **Työkokeilu**
+  * Valmistauduin *ISTQB Foundation Level*-kokeeseen.
+  * Tutustuin pintapuolisesti ohjelmointiin mm. `Python 3`:lla, `Ruby`llä, `Go`lla.
+  * Tutustuin `Firefox`in kehittäjätyökaluihin, erityisesti saavutettavuustesteihin.
+  * Tutustuin *Web Content Accessibility Guidelines* -ohjeistukseen sekä saavutettavuustestaamiseen,
+    ja opin miten saavutettavuus auttaa myös minua itseäni.
+* 28.10.2019 - 19.12.2019 *Robuntu Osk*
+  * **Työkokeilu**
+  * Suoritin moninaisia askareita osuuskunnan tukitoiminnoissa.
+  * Avustin osuuskunnan palveluiden markkinoinnissa tutustumalla `Thunderbird`-laajennuksilla
+    tapahtuvaan massaviestintään asiakkaille, sekä `Facebook Marketplace`en.
+
+## Koulutus
+
+* 08.08.2012 - 29.05.2015 *Etelä-Kymenlaakson ammattiopisto (Hamina)*
+  * **Tieto- ja viestintätekniikan perustutkinto (käytön tuen koulutusohjelma), Datanomi**
+
+## Kurssit ja muu koulutus
+
+<!-- * 25.05.2015 - TIEKE: Tietokoneen käyttäjän A-kortti -->
+* 25.05.2015 - TIEKE: Tietokoneen käyttäjän AB-kortti
+* 16.09.2014 - CCNA Discovery: Working at a Small-to-Medium Business or ISP
+* 28.04.2014 - CCNA Discovery: Networking for Home and Small Businesses
 
 ## Harrastukset
 
@@ -129,38 +161,6 @@ categories: cvsuomeksi
   * Pohdin sivun `issue tracker`issa usein mitä voisin parantaa, mitä voisin
     blogata ja usein sisällytän mukaan pääpiirteittäin mistä haluan kirjoittaa.
 * Lukeminen
-
-## Luottamustehtävät / vapaa-ehtoistyö
-
-* 19.11.2021 -- *FluffyChat suomentaja*
-  * Käänsin `FluffyChat` `Matrix`-asiakasohjelman suomenkielelle, sekä päivitän
-    niitä kehityksen tapahtuessa `Weblate`-käännöstyökalulla.
-  * Keskustelen muiden kääntäjien kanssa alkuperäisten viestien
-    merkityksestä, miten ne on käännetty muille kielille tai mitä erityistä
-    merkitystä niillä tarkoitetaan.
-  * Seuraan Matrix Suomen keskusteluita ja palautetta käännöksestä.
-* 02.04.2019 - 19.04.2020, 07.10.2021-23.11.2021 *[Privacy Guides](https://privacyguides.org/)*
-  * **Tiimin jäsen**
-  * Osallistuin keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
-    asetin niille `label`eita helpottaen niiden lajittelua, sekä löytämistä jatkossa.
-  * Arvioin `pull request`eja.
-  * Osallistuin erityisesti salatun DNS-osion luomiseen keräten tietoja ratkaisuista
-    (`DNS over HTTPS`, `DNS over TLS`, `DNSCrypt`) ja seuraan niiden kehittymistä mielenkiinnolla.
-  * Osallistuin tiedonhakuun ehdotetuista sovelluksista ja palveluista, arvioiden sopivatko
-    ne projektin kriteereihin.
-* 19.03.2020 -- *[Federated Networks Association ry (Feneas)](https://feneas.org/)*
-  * **Komitean jäsen**
-  * Avustan Feneaksen Matrix-huoneiden ylläpidossa, sekä keskustelen yhteisön
-    kanssa.
-  * Avustan välillä `Matrix`-palvelimen tai `Element`-asiakasohjelman päivittämisessä
-    avaamalla `merge-requeste`jä `GitLab`in `Ansible-playbook`eja kohtaan.
-  * Olen Feneaksen ryhmäkontakti [LiberaChat] -IRC-verkolle kommunikoiden
-    molemmin puolin mikäli [LiberaChat]in kanssa on ongelmia tai toiseen suuntaan,
-    rekisteröin Feneaksen nimiavaruuden kanavia heidän verkossaan, toimin kanavaoperaattorina
-    ja vastaan `vhost`ien pyytämisestä jäsenillemme näyttämään heidän yhteytensä
-    yhdistykseen.
-
-[LiberaChat]:https://libera.chat/
 
 ## Yhteiskunnallinen ja poliittinen toiminta
 
