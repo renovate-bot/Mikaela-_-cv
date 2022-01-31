@@ -1,6 +1,6 @@
 ---
-versionString: 2021.01.0
-date: 2022-01-05 19:47:10 +0200
+versionString: 2022.05.0
+date: 2022-01-31 12:04:50 +0200
 categories: cvsuomeksi
 ---
 
@@ -107,7 +107,7 @@ categories: cvsuomeksi
 
 ## Työkokemus
 
-* 13.09.2021-26.11.2021 *Digitalents Academy*
+* 13.09.2021-28.11.2021 *Digitalents Academy*
   * **Työkokeilu**
   * Loin GitHub-pages pohjaisen CV:n (cv.aminda.eu).
   * Tutustuin `Python`in ja `JavaScript`in perusteisiin.
