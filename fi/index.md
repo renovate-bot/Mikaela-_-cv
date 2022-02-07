@@ -1,6 +1,6 @@
 ---
-versionString: 2022.05.0
-date: 2022-01-31 12:04:50 +0200
+versionString: 2022.06.0
+date: 2022-02-07 13:25:55 +0200
 categories: cvsuomeksi
 ---
 
@@ -144,6 +144,8 @@ categories: cvsuomeksi
 * "Ohjelmistotestaus", löydän usein käyttämistäni ohjelmista ongelmia tai
   puuttuvia ominaisuuksia ja selkeän ongelmanraportointikanavan ollessa olemassa
   myös ilmoitan siitä.
+  * Käyttäjätunnuksen vaativa listaus avaamistani [issueista muiden GitHub-repoihin](https://github.com/issues?q=is%3Aissue+author%3AMikaela+-user%3AMikaela),
+    [GitLab.com:issa](https://gitlab.com/dashboard/issues/?scope=all&state=all&author_username=Mikaela).
 * Puoluetoiminta, olen aktiivinen Piraattipuolueessa ja kun Helsingissä kampanjoidaan
   olen mukana avustamassa kampanjoinnissa mm. keskustellen ihmisten kanssa,
   jakaen flaikkuja, keittäen kahvia, tai avustamassa vaalikontin ruudun diaesitysten
