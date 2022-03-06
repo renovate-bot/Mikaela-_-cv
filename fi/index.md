@@ -1,6 +1,6 @@
 ---
-versionString: 2022.06.0
-date: 2022-02-07 13:25:55 +0200
+versionString: 2022.09.0
+date: 2022-03-06 15:36:45 +0200
 categories: cvsuomeksi
 ---
 
@@ -151,7 +151,7 @@ categories: cvsuomeksi
   jakaen flaikkuja, keittäen kahvia, tai avustamassa vaalikontin ruudun diaesitysten
   käynnistämisessä
 * Kielet
-* 11.07.2014-- Mikaela.info -kotisivuni ylläpito ja blogin kirjoitus
+* 11.07.2014-- Mikaela.info, 114077943.xyz ja Aminda.eu -kotisivuni ylläpito ja blogin kirjoitus
   * **Webmaster** <!-- https://en.wikipedia.org/wiki/Webmaster vahvistaa termin olevan ok -->
   * Rekisteröin domainin `Gandi`lla, käytin pitkään `Cloudflare`n `DNS`-palveluita
     ennen siirtymistäni takaisin `Gandi`n omaan palveluun, johon tuli tänä aikana
