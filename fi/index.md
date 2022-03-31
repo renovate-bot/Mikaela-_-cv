@@ -1,6 +1,6 @@
 ---
-versionString: 2022.09.0
-date: 2022-03-06 15:36:45 +0200
+versionString: 2022.13.0
+date: 2022-03-31 15:24:55 +0300
 categories: cvsuomeksi
 ---
 
@@ -83,7 +83,7 @@ categories: cvsuomeksi
 ## IT-Taidot
 
 * Linux-ylläpito vuodesta 2008
-  * Arch Linux, Debian, (Ubuntu, ) Fedora
+  * Arch Linux, Debian, (Ubuntu, ) Fedora, SailfishOS
   * systemd (`system/user unit`s (palvelut, ajastimet), networkd, resolved, timesyncd…)
   * OpenSSHd, CUPS, UFW
   * Chrony NTP-palvelin
@@ -93,11 +93,15 @@ categories: cvsuomeksi
   * GitHub/Gitlab pages
 * DNS
   * DNSSEC, zone-hallinta, Unbound
+  * DNS-over-HTTPS (iOS 14 ja Windows 11 -asiakkailla) ja DNS-over-TLS (Android, systemd, Unbound -asiakkailla)
 * IPv6
   * SixXS, Tunnelbroker, radvd, radvdump, Yggdrasil
+* Windows Server
+  * Active Directory, Group Policy…
 * IRC
   * Charybdis, Atheme, Ergo
   * KiwiIRC, Gamja
+* WordPress -ongelmanratkaisu
 
 ## Kielitaito
 
