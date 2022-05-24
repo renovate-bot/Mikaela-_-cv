@@ -1,6 +1,6 @@
 ---
-versionString: 2022.13.0
-date: 2022-03-31 15:24:55 +0300
+versionString: 2022.21.0
+date: 2022-03-31 20:30:48 +0300
 categories: cvsuomeksi
 ---
 
@@ -85,8 +85,8 @@ categories: cvsuomeksi
 * Linux-ylläpito vuodesta 2008
   * Arch Linux, Debian, (Ubuntu, ) Fedora, SailfishOS
   * systemd (`system/user unit`s (palvelut, ajastimet), networkd, resolved, timesyncd…)
-  * OpenSSHd, CUPS, UFW
-  * Chrony NTP-palvelin
+  * OpenSSHd, CUPS tulostuspalvelu, UFW-palomuuri
+  * Chrony aika-palvelin
 * Git
   * GitHub/GitLab/Gitea orgaisaatiot, issue tracker, labelit
   * GitLab/Gitea -repojen peilaus
@@ -99,8 +99,8 @@ categories: cvsuomeksi
 * Windows Server
   * Active Directory, Group Policy…
 * IRC
-  * Charybdis, Atheme, Ergo
-  * KiwiIRC, Gamja
+  * Charybdis+Atheme, Ergo -palvelut ja -palvelimet
+  * KiwiIRC, Gamja -selainpohjaiset asiakasohjelmat
 * WordPress -ongelmanratkaisu
 
 ## Kielitaito
