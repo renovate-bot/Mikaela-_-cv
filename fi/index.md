@@ -12,13 +12,6 @@ categories: cvsuomeksi
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
-* 19.11.2021 -- *FluffyChat suomentaja*
-  * Käänsin `FluffyChat` `Matrix`-asiakasohjelman suomenkielelle, sekä päivitän
-    niitä kehityksen tapahtuessa `Weblate`-käännöstyökalulla.
-  * Keskustelen muiden kääntäjien kanssa alkuperäisten viestien
-    merkityksestä, miten ne on käännetty muille kielille tai mitä erityistä
-    merkitystä niillä tarkoitetaan.
-  * Seuraan Matrix Suomen keskusteluita ja palautetta käännöksestä.
 * 02.04.2019 - 19.04.2020, 07.10.2021-23.11.2021 *[Privacy Guides](https://privacyguides.org/)*
   * **Tiimin jäsen**
   * Osallistuin keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
@@ -77,6 +70,7 @@ categories: cvsuomeksi
     ja IRC-palvelut.
   * Kommunikoin aktiivisesti puolueen käyttämien ohjelmistojen upstreamin kanssa,
     erityisesti `Charybdis`:ksen, `Atheme`n, `Ergo`n, `Limnoria`n ja `Gitea`n kanssa.
+  * Suomensin käyttämämme `TLG_JoinCaptchaBot`in.
 
 [LiberaChat]:https://libera.chat/
 
@@ -167,6 +161,16 @@ categories: cvsuomeksi
   * Pohdin sivun `issue tracker`issa usein mitä voisin parantaa, mitä voisin
     blogata ja usein sisällytän mukaan pääpiirteittäin mistä haluan kirjoittaa.
 * Lukeminen
+* Lokalisointi
+  * Ylläpidän suomennoksia `FluffyChat`- (19.11.2021--) ja `Nheko`- (04.04.2022--)
+    -`Matrix`-asiakasohjelmissa `Weblate`-käännöstyökalulla. Matrixin ulkopuolella
+    olen suomentanut `TLG_JoinCaptchaBot`in (11.04.2022--), joka torjuu roskapostitusta
+    Telegram-ryhmissä.
+  * Keskustelen muiden kääntäjien kanssa alkuperäisten viestien
+    merkityksestä, miten ne on käännetty muille kielille tai mitä erityistä
+    merkitystä niillä tarkoitetaan.
+  * Seuraan Matrix Suomen keskusteluita ja palautetta käännöksestä.
+  * Tuen myös sovellusten käyttäjiä niiden omilla tukikanavilla.
 
 ## Yhteiskunnallinen ja poliittinen toiminta
 
