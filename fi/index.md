@@ -100,7 +100,7 @@ categories: cvsuomeksi
 ## Kielitaito
 
 * suomi `🌟🌟🌟🌟🌟🌟` (äidinkieli)
-* englanti `⭐⭐⭐⭐⚫⚫` (CEFRL: B2)
+* englanti `⭐⭐⭐⭐⭐⚫` (CEFRL: C1)
 * esperanto `⭐⚫⚫⚫⚫⚫` (CEFRL: A1)
 
 ## Työkokemus
