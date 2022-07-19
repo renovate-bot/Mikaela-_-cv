@@ -175,11 +175,11 @@ categories: cvsuomeksi
 ## Yhteiskunnallinen ja poliittinen toiminta
 
 * Piraattipuolueen puoluevaltuusto
-  * Varajäsen 26.09.2020-25.02.2021, varsinainen jäsen 25.02.2021-- <!-- 26.09.2020 eteenpäin on sama hallituskausi, kaksi varsinaista poistui, joten "päivitys" -->
+  * Varajäsen 26.09.2020-25.02.2021, varsinainen jäsen 25.02.2021-18.06.2022 <!-- 26.09.2020 eteenpäin on sama hallituskausi, kaksi varsinaista poistui, joten "päivitys" -->
 * Piraattinuorten hallitus
   * Jäsen 2017-06.06.2018, varajäsen 2018-2019-01-11, 19.01.2020-18.12.2021
 * Piraattipuolueen Helsingin piiriyhdistys, hallituksen varajäsen
-  * 2017-2018, 2019-2021
+  * 2017-2018, 2019-2021, 13.07.2022--
 * Suomen autismikirjon yhdistys, hallituksen varajäsen
   * 14.04.2018 - 12.04.2019
 * Piraattipuolueen kuntavaaliehdokas Helsingissä 2017
