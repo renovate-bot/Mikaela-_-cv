@@ -1,0 +1,2 @@
+# Line ending normalisation, GH language detection opt-out
+* text=auto -linguist-detectable
