@@ -1,2 +1,10 @@
-# Line ending normalisation, GH language detection opt-out
-* text=auto -linguist-detectable
+# Line ending normalisation, force GH language detection
+* text=auto linguist-detectable
+
+# These don't feel like mine
+.github/** text=auto -linguist-detectable
+_includes/** text=auto -linguist-detectable
+
+# Unnecessary for statistics
+Gemfile text linguist-vendored
+Gemfile.lock text linguist-generated
