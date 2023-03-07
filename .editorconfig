@@ -1,0 +1,9 @@
+root = true
+
+[*]
+end_of_line = lf
+# two whitespaces at end of line is a new line within paragraph
+trim_trailing_whitespace = false
+insert_final_newline = true
+charset = utf-8
+indent_style = space
