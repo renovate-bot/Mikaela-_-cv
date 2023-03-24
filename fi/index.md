@@ -10,6 +10,20 @@ _{{ site.biosuomi }}_
 [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
 [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [OpenHub](https://www.openhub.net/accounts/Mikaela)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Luottamustehtävät / vapaa-ehtoistyö](#luottamusteht%C3%A4v%C3%A4t--vapaa-ehtoisty%C3%B6)
+- [IT-Taidot](#it-taidot)
+- [Kielitaito](#kielitaito)
+- [Työkokemus](#ty%C3%B6kokemus)
+- [Koulutus](#koulutus)
+- [Kurssit ja muu koulutus](#kurssit-ja-muu-koulutus)
+- [Harrastukset](#harrastukset)
+- [Yhteiskunnallinen ja poliittinen toiminta](#yhteiskunnallinen-ja-poliittinen-toiminta)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Luottamustehtävät / vapaa-ehtoistyö
 
 - 02.04.2019 - 19.04.2020, 07.10.2021-23.11.2021 _[Privacy Guides](https://privacyguides.org/)_
