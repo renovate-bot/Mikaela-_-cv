@@ -1,6 +1,6 @@
 ---
-versionString: 2022.21.0
-date: 2022-03-31 20:30:48 +0300
+versionString: 2023.14.0
+date: 2023-04-06 11:01:00 +0300
 categories: cvsuomeksi
 ---
 
@@ -26,26 +26,6 @@ _{{ site.biosuomi }}_
 
 ## Luottamustehtävät / vapaa-ehtoistyö
 
-- 02.04.2019 - 19.04.2020, 07.10.2021-23.11.2021 _[Privacy Guides](https://privacyguides.org/)_
-  - **Tiimin jäsen**
-  - Osallistuin keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
-    asetin niille `label`eita helpottaen niiden lajittelua, sekä löytämistä jatkossa.
-  - Arvioin `pull request`eja.
-  - Osallistuin erityisesti salatun DNS-osion luomiseen keräten tietoja ratkaisuista
-    (`DNS over HTTPS`, `DNS over TLS`, `DNSCrypt`) ja seuraan niiden kehittymistä mielenkiinnolla.
-  - Osallistuin tiedonhakuun ehdotetuista sovelluksista ja palveluista, arvioiden sopivatko
-    ne projektin kriteereihin.
-- 19.03.2020 -- _[Federated Networks Association ry (Feneas)](https://feneas.org/)_
-  - **Komitean jäsen**
-  - Avustan Feneaksen Matrix-huoneiden ylläpidossa, sekä keskustelen yhteisön
-    kanssa.
-  - Avustan välillä `Matrix`-palvelimen tai `Element`-asiakasohjelman päivittämisessä
-    avaamalla `merge-requeste`jä `GitLab`in `Ansible-playbook`eja kohtaan.
-  - Olen Feneaksen ryhmäkontakti [LiberaChat] -IRC-verkolle kommunikoiden
-    molemmin puolin mikäli [LiberaChat]in kanssa on ongelmia tai toiseen suuntaan,
-    rekisteröin Feneaksen nimiavaruuden kanavia heidän verkossaan, toimin kanavaoperaattorina
-    ja vastaan `vhost`ien pyytämisestä jäsenillemme näyttämään heidän yhteytensä
-    yhdistykseen.
 - 10.2015-- _[Piraattipuolue r.p.](https://piraattipuolue.fi/)_
   - **Verkkopalveluiden- ja Pikaviestinten ylläpito** <!-- Pikaviestintiimi perustettiin virallisesti 27.03.2018, verkkopalveluiden selvitys 06.08.2019 ja IT-tiimi on ollut 11.12.2019 -->
   - _Suosittelija: [Utu Hopiavuori](https://www.hopiavuori.net/)_
@@ -86,6 +66,26 @@ _{{ site.biosuomi }}_
   - Kommunikoin aktiivisesti puolueen käyttämien ohjelmistojen upstreamin kanssa,
     erityisesti `Charybdis`:ksen, `Atheme`n, `Ergo`n, `Limnoria`n ja `Gitea`n kanssa.
   - Suomensin käyttämämme `TLG_JoinCaptchaBot`in.
+- 19.03.2020 - 04.01.2022 _[Federated Networks Association ry (Feneas)](https://feneas.org/)_
+  - **Komitean jäsen**
+  - Avustan yhä yhdistyksen lakkauttamisen jälkeenkin Feneaksen Matrix-huoneiden ylläpidossa, sekä keskustelen yhteisön
+    kanssa.
+  - Avustin välillä `Matrix`-palvelimen tai `Element`-asiakasohjelman päivittämisessä
+    avaamalla `merge-requeste`jä `GitLab`in `Ansible-playbook`eja kohtaan.
+  - Olen Feneaksen ryhmäkontakti [LiberaChat] -IRC-verkolle kommunikoiden
+    molemmin puolin mikäli [LiberaChat]in kanssa on ongelmia tai toiseen suuntaan,
+    rekisteröin Feneaksen nimiavaruuden kanavia heidän verkossaan, toimin kanavaoperaattorina
+    ja vastaan `vhost`ien pyytämisestä jäsenillemme näyttämään heidän yhteytensä
+    yhdistykseen.
+- 02.04.2019 - 19.04.2020, 07.10.2021-23.11.2021 _[Privacy Guides](https://privacyguides.org/)_
+  - **Tiimin jäsen**
+  - Osallistuin keskusteluihin `GitHub`issa, `issues`- ja `discussions`-osioissa, sekä
+    asetin niille `label`eita helpottaen niiden lajittelua, sekä löytämistä jatkossa.
+  - Arvioin `pull request`eja.
+  - Osallistuin erityisesti salatun DNS-osion luomiseen keräten tietoja ratkaisuista
+    (`DNS over HTTPS`, `DNS over TLS`, `DNSCrypt`) ja seuraan niiden kehittymistä mielenkiinnolla.
+  - Osallistuin tiedonhakuun ehdotetuista sovelluksista ja palveluista, arvioiden sopivatko
+    ne projektin kriteereihin.
 
 [LiberaChat]: https://libera.chat/
 
@@ -97,8 +97,8 @@ _{{ site.biosuomi }}_
   - OpenSSHd, CUPS tulostuspalvelu, UFW-palomuuri
   - Chrony aika-palvelin
 - Git
-  - GitHub/GitLab/Gitea orgaisaatiot, issue tracker, labelit
-  - GitLab/Gitea -repojen peilaus
+  - GitHub/GitLab/Gitea/Forĝejo orgaisaatiot, issue tracker, labelit
+  - GitLab/Gitea/Forĝejo -repojen peilaus
   - GitHub/Gitlab pages
 - DNS
   - DNSSEC, zone-hallinta, Unbound
@@ -111,6 +111,9 @@ _{{ site.biosuomi }}_
   - Charybdis+Atheme, Ergo -palvelut ja -palvelimet
   - KiwiIRC, Gamja -selainpohjaiset asiakasohjelmat
 - WordPress -ongelmanratkaisu
+- bash-skriptaus, ks. [Mikaela/Scripts](https://gitea.blesmrt.net/mikaela/scripts)
+- MySQL-perusteet
+- LaTeX -perusteet, ks. [Mikaela/gist:in LaTeX-hakemisto](https://gitea.blesmrt.net/mikaela/gist/src/branch/master/LaTeX)
 
 ## Kielitaito
 
