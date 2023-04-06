@@ -1,19 +1,14 @@
 theme: jekyll-theme-minimal
 title: CV
-description: Mikaela A͟m͟i͟n͟d͟a͟ Henriikka Maini Suomalainen, verkkopalveluylläpitäjä/web service administrator
+description: Aminda Suomalainen, verkkopalveluylläpitäjä/web service administrator
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://cv.aminda.eu" # the base hostname & protocol for your site
 timezone: Europe/Helsinki
 encoding: utf-8
-# These had no effect in attempt to get rid of jekyll-seo-tag
-#safe: true
-#whitelist:
-#  - jekyll-sitemap
 plugins:
   - jekyll-sitemap
 sitemap:
   file: "/sitemap.xml"
 biosuomi: "Aminda Suomalainen on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa"
 bioenglish: "Short introduction text is coming here soon..."
-# This is a bit silly considering it's manually copied version from mikaela.info
-icon: https://bafybeian33l6hrvjoapve7dxbghs2ej4zeya2cgoldrqo3tm5id7tj6uey.ipfs.dweb.link/128.jpeg
+icon: https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/90.jpeg
