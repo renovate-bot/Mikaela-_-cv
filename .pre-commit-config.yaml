@@ -1,3 +1,7 @@
+ci:
+  # Attempts to use networking and fails at name resolution
+  skip: [bundler-audit]
+
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0
@@ -18,11 +22,14 @@ repos:
       - id: check-github-actions
       - id: check-github-workflows
       - id: check-gitlab-ci
-  - repo: https://github.com/thlorenz/doctoc
-    rev: v2.2.0
+
+  - repo: https://github.com/jumanjihouse/pre-commit-hooks
+    rev: 3.0.0
     hooks:
-      - id: doctoc
-        args: [--update-only]
+      - id: bundler-audit
+      # https://github.com/jumanjihouse/pre-commit-hooks/issues/111
+      #- id: check-mailmap
+
   - repo: https://github.com/pre-commit/mirrors-prettier
     rev: "v3.0.0-alpha.6"
     hooks:
@@ -32,4 +39,8 @@ repos:
     hooks:
       - id: editorconfig-checker
         alias: ec
-        args: [-disable-max-line-length]
+  - repo: https://github.com/thlorenz/doctoc
+    rev: v2.2.0
+    hooks:
+      - id: doctoc
+        args: [--update-only]
