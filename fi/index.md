@@ -113,7 +113,7 @@ _{{ site.biosuomi }}_
 - WordPress -ongelmanratkaisu
 - bash-skriptaus, ks. [Mikaela/Scripts](https://gitea.blesmrt.net/mikaela/scripts)
 - MySQL-perusteet
-- LaTeX -perusteet, ks. [Mikaela/gist:in LaTeX-hakemisto](https://gitea.blesmrt.net/mikaela/gist/src/branch/master/LaTeX)
+- $\LaTeX$ -perusteet, ks. [Mikaela/gist:in LaTeX-hakemisto](https://gitea.blesmrt.net/mikaela/gist/src/branch/master/LaTeX)
 
 ## Kielitaito
 
