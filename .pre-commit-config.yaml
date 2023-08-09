@@ -26,7 +26,7 @@ repos:
         args: [--update-only]
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.23.2
+    rev: 0.24.0
     hooks:
       - id: check-dependabot
       - id: check-github-actions
@@ -34,9 +34,10 @@ repos:
       - id: check-gitlab-ci
 
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.0-alpha.9-for-vscode"
+    rev: "v3.0.1"
     hooks:
       - id: prettier
+
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
     rev: "2.7.2"
     hooks:
