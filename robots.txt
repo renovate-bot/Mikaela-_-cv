@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://cv.aminda.eu/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
