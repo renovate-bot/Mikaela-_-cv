@@ -1,10 +1,24 @@
 # Linux line endings, force GH language detection
 * text=auto eol=lf linguist-detectable
 
+# Built-in diff patterns (disabled by default).
+*.css   diff=css
+*.html  diff=html
+*.php   diff=php
+*.{md,markdown} diff=markdown
+
 # These don't feel like mine
 .github/** text=auto -linguist-detectable
+css/** text=auto -linguist-detectable
+_data/** text=auto -linguist-detectable
 _includes/** text=auto -linguist-detectable
+_layouts/** text=auto -linguist-detectable
+_sass/** text=auto -linguist-detectable
 
 # Unnecessary for statistics
 Gemfile text linguist-vendored
 Gemfile.lock text linguist-generated
+
+# LFS
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
