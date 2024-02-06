@@ -1,30 +1,43 @@
+# SPDX-FileCopyrightText: 2023 Aminda Suomalainen <suomalainen+git@mikaela.info>
+#
+# SPDX-License-Identifier: CC0-1.0
+
 # See https://pre-commit.com for more information
 # See https://pre-commit.ci for more information
 ci:
-  # This project is not active enough to justify weekly autoupdates.
+  # I don't need so many duplicated notifications on the same thing as I keep
+  # autoupdating manually too. Besides it just creates extra branch I never
+  # touch.
+  # https://github.com/pre-commit-ci/issues/issues/83
   autoupdate_schedule: quarterly
 
-# Use pypy3 for the Python hooks
-default_language_version:
-  python: pypy3
+# Use pypy3 for the Python hooks. Except don't, see .gitlab-ci.yml
+#default_language_version:
+#  python: pypy3
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.5.0
     hooks:
-      - id: check-added-large-files
-      - id: check-case-conflict
-      - id: check-yaml
-      - id: destroyed-symlinks
-      - id: detect-private-key
-      - id: end-of-file-fixer
-      - id: fix-byte-order-marker
       - id: trailing-whitespace
         args: ["--markdown-linebreak-ext", "md,markdown"]
         exclude_types: [svg, tsv]
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-executables-have-shebangs
+      - id: check-json
+      - id: check-merge-conflict
+      - id: check-shebang-scripts-are-executable
+      - id: destroyed-symlinks
+      - id: detect-private-key
+      - id: fix-byte-order-marker
       - id: check-merge-conflict
       - id: mixed-line-ending
         args: [--fix=auto]
+      - id: pretty-format-json
+        args: [--autofix, --no-ensure-ascii]
 
   - repo: https://github.com/pre-commit-ci/pre-commit-ci-config
     rev: v1.6.1
@@ -38,22 +51,28 @@ repos:
         args: [--update-only, --notitle]
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.27.3
+    rev: 0.28.0
     hooks:
       - id: check-dependabot
       - id: check-github-workflows
       - id: check-gitlab-ci
 
+  - repo: https://github.com/fsfe/reuse-tool
+    rev: v3.0.1
+    hooks:
+      - id: reuse
+
   - repo: https://github.com/pre-commit/mirrors-prettier
     rev: "v4.0.0-alpha.8"
     hooks:
       - id: prettier
-        #additional_dependencies: [
-        # https://www.npmjs.com/package/prettier
-        #"prettier@3.0.3",
-        # https://www.npmjs.com/package/@prettier/plugin-xml
-        #"@prettier/plugin-xml@3.2.1",
-        #]
+        exclude_types: [json]
+        additional_dependencies: [
+            # https://www.npmjs.com/package/prettier
+            "prettier@3.2.5",
+            # https://www.npmjs.com/package/@prettier/plugin-xml
+            "@prettier/plugin-xml@3.2.2",
+          ]
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
     rev: "2.7.3"
