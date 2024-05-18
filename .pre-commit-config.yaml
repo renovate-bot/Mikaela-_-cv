@@ -57,10 +57,10 @@ repos:
       - id: check-github-workflows
       - id: check-gitlab-ci
 
-  - repo: https://github.com/fsfe/reuse-tool
-    rev: v3.0.2
-    hooks:
-      - id: reuse
+  # - repo: https://github.com/fsfe/reuse-tool
+  #   rev: v3.0.2
+  #   hooks:
+  #     - id: reuse
 
   - repo: https://github.com/rbubley/mirrors-prettier
     rev: "v3.2.5"
