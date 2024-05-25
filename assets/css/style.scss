@@ -1,0 +1,19 @@
+---
+# front-end
+---
+
+:root {
+  color-scheme: dark light;
+  font-family: "Liberation Serif", "Tinos", "Times New Roman", serif;
+  margin: auto;
+  // A4 paper
+  max-width: 210mm;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: underline;
+}

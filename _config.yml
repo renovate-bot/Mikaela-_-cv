@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: CV
 description: Aminda Suomalainen, verkkopalveluylläpitäjä/web service administrator
 baseurl: "/" # the subpath of your site, e.g. /blog/
