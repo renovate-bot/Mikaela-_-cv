@@ -3,6 +3,7 @@
 ---
 
 :root {
+  box-sizing: border-box;
   color-scheme: dark light;
   font-family: "Liberation Serif", "Tinos", "Times New Roman", serif;
   margin: auto;
@@ -10,10 +11,6 @@
   //letter-spacing: 0.5px;
   // A4 paper
   max-width: 210mm;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 a {
