@@ -2,9 +2,10 @@
 versionString: 2023.14.0
 date: 2023-04-06 11:01:00 +0300
 categories: cvsuomeksi
+permalink: /index.html
 redirect_from:
   - fi/index.html
-  - index.html
+  - README.html
 ---
 
 <!-- https://workwithcarolyn.com/blog/digital-cv-guide
