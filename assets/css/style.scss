@@ -1,11 +1,13 @@
 ---
-# front-end
+# front-matter
 ---
 
 :root {
   color-scheme: dark light;
   font-family: "Liberation Serif", "Tinos", "Times New Roman", serif;
   margin: auto;
+  line-height: 1.2;
+  //letter-spacing: 0.5px;
   // A4 paper
   max-width: 210mm;
 }
@@ -16,4 +18,11 @@
 
 a {
   text-decoration: underline;
+}
+
+pre,
+code {
+  font-family: "Liberation Mono", "Cousine", "Courier New", monospace;
+  // rem, root element, em, current element
+  font-size: 0.8em;
 }
