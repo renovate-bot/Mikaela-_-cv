@@ -7,9 +7,8 @@ timezone: Europe/Helsinki
 encoding: utf-8
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 sitemap:
   file: "/sitemap.xml"
 include: [robots.txt]
-biosuomi: "Aminda Suomalainen on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa"
-bioenglish: "Short introduction text is coming here soon..."
 icon: https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/90.jpeg
