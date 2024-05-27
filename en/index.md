@@ -1,6 +1,8 @@
 ---
 layout: default
 title: in English
+excerpt: "Untailored everything about everything version of my CV. Ask me
+about a version tailored just for you!"
 versionString: 2023.14.0
 date: null
 categories: cvinenglish
