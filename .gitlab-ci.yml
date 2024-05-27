@@ -1,12 +1,17 @@
-# from https://gitlab.com/pages/jekyll/-/blob/master/.gitlab-ci.yml
-image: ruby:latest
+image: alpine:latest
 
 variables:
   JEKYLL_ENV: production
-  LC_ALL: C.UTF-8
+  LC_ALL: en_US.utf8
+  TERM: dumb
+
+cache:
+  paths:
+    - ${PRE_COMMIT_HOME}
+    - ${CI_PROJECT_DIR}/bundle
 
 before_script:
-  - gem install bundler
+  - apk add --no-cache ruby ruby-dev ruby-bundler make gcc g++ musl-dev build-base libffi-dev libxml2-dev
   - bundle install
 
 test:
@@ -28,3 +33,13 @@ pages:
       - public
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+
+gitlab-ci-pre-commit:
+  stage: build
+  before_script:
+    - apk add --no-cache python3 python3-dev py3-pip py3-wheel git gcc musl-dev bash nodejs-current npm ruby ruby-bundler
+    - pip install pre-commit --break-system-packages
+  script:
+    - pre-commit run --all-files --show-diff-on-failure
+  variables:
+    PRE_COMMIT_HOME: ${CI_PROJECT_DIR}/.cache/pre-commit
