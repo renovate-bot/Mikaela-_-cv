@@ -35,8 +35,11 @@ code {
 
 img {
   border-radius: 50% !important;
-  margin: 1em !important;
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
   @media (min-width: 395px) {
+    display: float !important;
     float: right !important;
   }
 }
