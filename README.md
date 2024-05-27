@@ -1,4 +1,6 @@
 ---
+title: CV suomeksi
+layout: default
 versionString: 2023.14.0
 date: 2023-04-06 11:01:00 +0300
 categories: cvsuomeksi

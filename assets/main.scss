@@ -1,0 +1,40 @@
+---
+# front-matter
+---
+
+@charset "utf-8";
+
+@import "{{ site.theme }}";
+
+:root {
+  color-scheme: dark light !important;
+}
+
+* {
+  //  box-sizing: border-box !important;
+  color: revert !important;
+  background-color: revert !important;
+  font-family: "Liberation Serif", "Tinos", "Times New Roman", serif !important;
+  //margin: auto  !important;
+  //  line-height: 1.2 !important;
+  // A4 paper
+  max-width: 210mm !important;
+  font-size: revert;
+  //padding: auto !important;
+}
+
+a {
+  text-decoration: underline !important;
+}
+
+pre,
+code {
+  font-family: "Liberation Mono", "Cousine", "Courier New", monospace !important;
+  font-size: 0.8em !important;
+}
+
+img {
+  float: right !important;
+  border-radius: 50% !important;
+  margin: 1em !important;
+}
