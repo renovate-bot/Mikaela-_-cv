@@ -12,6 +12,8 @@ redirect_from:
   - README.html
 ---
 
+# Aminda Suomalainen
+
 <!-- https://workwithcarolyn.com/blog/digital-cv-guide
 Due to having two different language versions, I need to be aware which state particular version is to keep them in sync, I have decided to use CalVer format YYYY.0W.MICRO (year.week.numberofEdit e.g. 2022.01.00).
 
@@ -24,13 +26,15 @@ Internally both of these are provided in the YAML front matter and refer to vari
 
 <img src="https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/250.jpeg" alt="kuva minusta"/>
 
-_Aminda Suomalainen on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
+_…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
 **_[Google Translated into English](https://cv-aminda-eu.translate.goog/index.html?_x_tr_sl=fi&_x_tr_tl=en) proper [English version is planned](https://github.com/Mikaela/cv/issues/1)._**
 
-🌍 Helsinki, Suomi / [email](mailto:suomalainen+cvfi@mikaela.info) /
+🌍 Helsinki, Suomi / [Email](mailto:suomalainen@mikaela.info) /
 [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
-[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [OpenHub](https://www.openhub.net/accounts/Mikaela)
+[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Telegram](https://aminda.eu/txt/telegram.txt) / [OpenHub](https://www.openhub.net/accounts/Mikaela) / [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
+
+## Sisällys
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
