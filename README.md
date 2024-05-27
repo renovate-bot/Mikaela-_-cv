@@ -26,7 +26,7 @@ Internally both of these are provided in the YAML front matter and refer to vari
 
 _Aminda Suomalainen on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
-**_[Google Translated into English](https://cv-aminda-eu.translate.goog/fi/?_x_tr_sl=fi&_x_tr_tl=en&_x_tr_hl=fi&_x_tr_pto=nui), proper [English version is planned](https://github.com/Mikaela/cv/issues/1)._**
+**_[Google Translated into English](https://cv-aminda-eu.translate.goog/index.html?_x_tr_sl=fi&_x_tr_tl=en) proper [English version is planned](https://github.com/Mikaela/cv/issues/1)._**
 
 🌍 Helsinki, Suomi / [email](mailto:suomalainen+cvfi@mikaela.info) /
 [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
