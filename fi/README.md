@@ -1,49 +1,78 @@
 ---
+title: suomeksi
+excerpt: "Räätälöimätön kaikki kaikesta versio CVstäni. Kysy
+kohdennetusta versiosta!"
 layout: default
-title: in English
-excerpt: "Untailored everything about everything version of my CV. Ask me
-about a version tailored just for you!"
-versionString: 2023.14.0
-date: null
-categories: cvinenglish
-draft: true
-published: false
+versionString: 2024.22.0
+date: 2024-05-27T18:39:39+03:00
+categories: cvsuomeksi
+permalink: /index.html
+redirect_from:
+  - fi/index.html
+  - fi/README.html
+  - README.html
 ---
 
-_{{ site.bioenglish }}_
+# Aminda Suomalainen
 
-🌍 Helsinki, Finland / [email](mailto:suomalainen+cvfi@mikaela.info) /
+<!-- https://workwithcarolyn.com/blog/digital-cv-guide
+Due to having two different language versions, I need to be aware which state particular version is to keep them in sync, I have decided to use CalVer format YYYY.0W.MICRO (year.week.numberofEdit e.g. 2022.01.00).
+
+Additionally more human readable date is provided for convenience of the reader for when I have made changes or confirmed the CV to still be up-to-date.
+
+Internally both of these are provided in the YAML front matter and refer to variable on the bottom of the page.
+-->
+
+<!-- _{{ site.biosuomi }}_ -->
+
+<img src="https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/250.jpeg" alt="kuva minusta"/>
+
+_…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
+
+🌍 Helsinki, Suomi / [Email](mailto:{{ site.email }}) /
 [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
-[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [OpenHub](https://www.openhub.net/accounts/Mikaela)
+[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Telegram](https://aminda.eu/txt/telegram.txt) / [OpenHub](https://www.openhub.net/accounts/Mikaela) / [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
+
+## Sisällys
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Positions of trust / volunteering](#positions-of-trust--volunteering)
-- [IT-Skills](#it-skills)
-- [Language skills](#language-skills)
-- [Work experience](#work-experience)
-- [Education](#education)
-- [Courses and other education](#courses-and-other-education)
-- [Hobbies](#hobbies)
-- [Societal and political activities](#societal-and-political-activities)
+- [Luottamustehtävät / vapaa-ehtoistyö](#luottamusteht%C3%A4v%C3%A4t--vapaa-ehtoisty%C3%B6)
+- [IT-Taidot](#it-taidot)
+- [Kielitaito](#kielitaito)
+- [Työkokemus](#ty%C3%B6kokemus)
+- [Koulutus](#koulutus)
+- [Kurssit ja muu koulutus](#kurssit-ja-muu-koulutus)
+- [Harrastukset](#harrastukset)
+- [Yhteiskunnallinen ja poliittinen toiminta](#yhteiskunnallinen-ja-poliittinen-toiminta)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Positions of trust / volunteering
+## Luottamustehtävät / vapaa-ehtoistyö
 
-- 10.2015-- _[Pirate Party Finland](https://piraattipuolue.fi/en)_
-  - **Web service and instant messenger administration** <!-- Instant messenger team was officially founded 27.03.2018, documenting web services on 06.08.2019 and IT team since 11.12.2019 -->
-  - _Recommender: [Utu Hopiavuori](https://www.hopiavuori.net/)_
-  - I unified access control of pirate party's IRC channel to `Atheme GroupServ` rather than having dozens of channels managed separately.
-  - I administered connecting channels belonging to the party between `IRC` and `Slack` while the `IRC gateway` was supported. I also administered the Slack workspace.
-  - I setup `TeleIRC` and `Discord-IRC` so the party's communications move between `IRC`, `Telegram` and `Discord`.
-  - I help PirateIRC oper team in maintaining the network and communicating with the operators (from countries including Australia and Sweden) and users (including Pirate Parties from the Netherlands and Massachusetts).
-  - I am PirateIRC contact person to Matrix bridge maintained by Indian Pirates and support with settings on the PirateIRC end so the bridge setup was possible.
-  - I executed migration from `TeleIRC` and `Discord-IRC` to `Matterbridge` which was a better solution in which `IRC` is no longer the glue in the middle.
-  - I maintain a `Limnoria` instance that amongst other things follows `certificate transparency` feeds, monitors `Git webhooks` and fetches titles from linked websites easening the use of `IRC` and `Matrix` clients that don't show link previews.
-  - I setup `role based access control` to the party Discord server so all channels aren't visible instantly and those channels desiring peace for working are only displayed once the user has been decided to be appropiate.
-  - TODO TODO TODO TODO TODO
+- 10.2015-- _[Piraattipuolue r.p.](https://piraattipuolue.fi/)_
+  - **Verkkopalveluiden- ja Pikaviestinten ylläpito** <!-- Pikaviestintiimi perustettiin virallisesti 27.03.2018, verkkopalveluiden selvitys 06.08.2019 ja IT-tiimi on ollut 11.12.2019 -->
+  - _Suosittelija: [Utu Hopiavuori](https://www.hopiavuori.net/)_
+  - Yhtenäistin piraattipuolueen IRC-kanavien hallinnan `Atheme`n `GroupServ`in
+    alaisuuteen keskittäen pääsynhallinnan kymmenien eri kanavien omien listojen sijaan.
+  - Ylläpidin puolueen kanavien yhdistämistä `IRC`stä `Slack`iin käyttäen `Slack`in
+    `IRC-gateway`tä sen ollessa tuettu, sekä ylläpidin `Slack`-työtilaa.
+  - Pystytin `TeleIRC`:n ja `Discord-IRC`:n, jotta piraattipuolueen viestintä kulkee
+    `IRC`n, `Discord`in ja `Telegram`min välillä.
+  - Avustan PirateIRC:n oper-tiimiä -verkon ylläpidossa kommunikoiden mm.
+    Australian ja Ruotsin Piraattipuolueiden operaattoreiden kanssa, sekä
+    käyttäjiemme kanssa (mm. Alankomaiden Piraattipuolue, Massachusetts:in piraattipuolue).
+  - Toimin PirateIRC:n kontaktihenkilönä Intian Piraattien ylläpitämälle Matrix-sillalle,
+    avustaen PirateIRC-päädyn asetusten kanssa, jotta silta voitiin pystyttää.
+  - Suoritin siirtymän `TeleIRC`stä ja `Discord-IRC`stä `Matterbridge`en parempana
+    ratkaisuna, jolloin `IRC` ei enää ole väliliima.
+  - Ylläpidän `Limnoria`-instanssia, joka mm. seuraa `certificate transparency`-syötteitä, valvoo `Git-webhook`eja
+    hakee linkitettyjen sivustojen otsikot helpottaen useiden `IRC`- ja `Matrix`-asiakasohjelmien käyttäjiä, jotka eivät
+    hae linkkien otsikoita käyttäjän puolesta.
+  - Asetin piraattipuolueen `Discord`-palvelimelle roolipohjaisen pääsynhallinnan,
+    jotta kaikki kanavat eivät näy kaikille vaan työrauhaa kaipaaville kanaville
+    pääsee kun käyttäjä on todettu asialliseksi.
   - Avustan piraattipuolueen verkkopalveluiden ylläpidossa mukaanlukien
     (`Debian`- ja `Ubuntu`-) käyttöjärjestelmien päivityksessä, `systemd`-yksiköiden
     kirjoittamisessa, sekä ohjelmistojen päivittämisessä.
@@ -53,15 +82,16 @@ _{{ site.bioenglish }}_
   - Pystytin piraattipuolueelle `Matrix`-huoneita, sekä -avaruuksia, jotta
     puolueen pikaviestintään pääsee osallistumaan myös sieltä `Discord`-tyylisellä
     manuaalisella pääsynhallinnalla.
-  - Kommunikoin Itävallan piraattipuolueen kanssa, Suomen piraattipuolueen `matterbridge` käyttää heidän `Matrix`-palvelintaan
-    ja ylläpidän `Matterbridge`llä toistinta heidän vetämässään kansainvälisten piraattipuolueiden keskustelukanavalla (Global Pirates)
+  - Kommunikoin Itävallan piraattipuolueen kanssa, Suomen piraattipuolueen `matterbridge`n käyttäessä heidän `Matrix`-palvelintaan
+    ja ylläpidän samalla `matterbridge`llä toistinta heidän vetämässään kansainvälisten piraattipuolueiden keskustelukanavalla (Global Pirates)
     heidän `Mattermost`-palvelimellaan, `Matrix`issa, `Telegram`missa, `Discord`issa, `PirateIRC`ssä.
   - Avustin PirateIRC-verkkoa siirtymisessä neljästä `Charybdis`-`IRC`-palvelimesta ja
     `Atheme IRC`-palveluista modernimpaan `Ergo IRCd`-ratkaisuun, joka yhdistää IRC-palvelimen
     ja IRC-palvelut.
   - Kommunikoin aktiivisesti puolueen käyttämien ohjelmistojen upstreamin kanssa,
-    erityisesti `Charybdis`:ksen, `Atheme`n, `Ergo`n, `Limnoria`n ja `Gitea`n kanssa.
+    erityisesti `Charybdis`:ksen, `Atheme`n, `Ergo`n, `Limnoria`n ja <del>`Gitea`</del>`Forgejo`n kanssa.
   - Suomensin käyttämämme `TLG_JoinCaptchaBot`in.
+  - Ratkaisin `Nextcloud`-palvelimen vähäisestä muistista johtuvia kaatumisia parantamalla `systemd.unit`ia ja käyttöönottamalla `earlyoom`-sovelluksen ajatellessamme lisämuistin olevan välttämätöntä. <!-- Katson tämän saavutuksekseni. -->
 - 19.03.2020 - 04.01.2022 _[Federated Networks Association ry (Feneas)](https://feneas.org/)_
   - **Komitean jäsen**
   - Avustan yhä yhdistyksen lakkauttamisen jälkeenkin Feneaksen Matrix-huoneiden ylläpidossa, sekä keskustelen yhteisön
@@ -85,14 +115,15 @@ _{{ site.bioenglish }}_
 
 [LiberaChat]: https://libera.chat/
 
-## IT-Skills
+## IT-Taidot
 
 - Linux-ylläpito vuodesta 2008
   - Arch Linux, Debian, (Ubuntu, ) Fedora, SailfishOS
   - systemd (`system/user unit`s (palvelut, ajastimet), networkd, resolved, timesyncd…)
-  - OpenSSHd, CUPS tulostuspalvelu, UFW-palomuuri
+  - OpenSSHd, CUPS tulostuspalvelu, UFW- ja firewalld palomuurit
   - Chrony aika-palvelin
 - Git
+  - Pidän parhaina käytäntöinä `.gitattributes`, `pre-commit`, `.editorconfig`, jotka löytyvät vähän kaikista repoistani. `.gitattributes` ja `.editorconfig` ovat erityisen tärkeitä kaikkialla, jotta eri käyttöjärjestelmillä työskentely ei sotke rivinvaihtoja.
   - GitHub/GitLab/Gitea/Forĝejo orgaisaatiot, issue tracker, labelit
   - GitLab/Gitea/Forĝejo -repojen peilaus
   - GitHub/Gitlab pages
@@ -107,17 +138,19 @@ _{{ site.bioenglish }}_
   - Charybdis+Atheme, Ergo -palvelut ja -palvelimet
   - KiwiIRC, Gamja -selainpohjaiset asiakasohjelmat
 - WordPress -ongelmanratkaisu
-- bash-skriptaus, ks. [Mikaela/Scripts](https://gitea.blesmrt.net/mikaela/scripts)
+- `bash`-skriptaus ja `Python` perusteet, ks. [Mikaela/Scripts](https://gitea.blesmrt.net/mikaela/scripts)
 - MySQL-perusteet
 - $\LaTeX$ -perusteet, ks. [Mikaela/gist:in LaTeX-hakemisto](https://gitea.blesmrt.net/mikaela/gist/src/branch/master/LaTeX)
+- Selaimen keskitetty hallinta policyillä.
+  - Olen kirjoittanut aiheesta kaksi blogikirjoitusta englanniksi, [osa 1: miten pakotetaan vain HTTPS-tila käyttöön](https://aminda.eu/blog/english/2024/05/17/https-everywhere.html) ja [osa 2: PrivacyBadger & uBlock Origin asennus, sekä hallinta](https://aminda.eu/blog/english/2024/05/22/policy-contentblocker.html).
 
-## Language skills
+## Kielitaito
 
-- Finnish `🌟🌟🌟🌟🌟🌟` (native)
-- English `⭐⭐⭐⭐⭐⚫` (CEFRL: C1)
-- Esperanto `⭐⚫⚫⚫⚫⚫` (CEFRL: A1)
+- suomi `🌟🌟🌟🌟🌟🌟` (äidinkieli)
+- englanti `⭐⭐⭐⭐⭐⚫` (CEFRL: C1)
+- esperanto `⭐⚫⚫⚫⚫⚫` (CEFRL: A1)
 
-## Work experience
+## Työkokemus
 
 - 13.09.2021-28.11.2021 _Digitalents Academy_
   - **Työkokeilu**
@@ -138,12 +171,14 @@ _{{ site.bioenglish }}_
   - Avustin osuuskunnan palveluiden markkinoinnissa tutustumalla `Thunderbird`-laajennuksilla
     tapahtuvaan massaviestintään asiakkaille, sekä `Facebook Marketplace`en.
 
-## Education
+## Koulutus
 
+- 14.03.2024 - 11.10.2024 _Taitotalo (Helsinki)_
+  - **Tieto- ja viestintätekniikan osatutkinto: kyberturvallisuuden ylläpitäminen**
 - 08.08.2012 - 29.05.2015 _Etelä-Kymenlaakson ammattiopisto (Hamina)_
-  - **Tieto- ja viestintätekniikan perustutkinto (käytön tuen koulutusohjelma), Datanomi**
+  - **Tieto- ja viestintätekniikan perustutkinto: käytön tuen koulutusohjelma (datanomi)**
 
-## Courses and other education
+## Kurssit ja muu koulutus
 
 <!-- * 25.05.2015 - TIEKE: Tietokoneen käyttäjän A-kortti -->
 
@@ -151,7 +186,7 @@ _{{ site.bioenglish }}_
 - 16.09.2014 - CCNA Discovery: Working at a Small-to-Medium Business or ISP
 - 28.04.2014 - CCNA Discovery: Networking for Home and Small Businesses
 
-## Hobbies
+## Harrastukset
 
 - Tietoturva, seuraan alan uutisia ja verkkoyhteisöjä (IRC, Matrix) jatkuvasti
 - "Ohjelmistotestaus", löydän usein käyttämistäni ohjelmista ongelmia tai
@@ -166,13 +201,11 @@ _{{ site.bioenglish }}_
 - Kielet
 - 11.07.2014-- Mikaela.info, 114077943.xyz ja Aminda.eu -kotisivuni ylläpito ja blogin kirjoitus
   - **Webmaster** <!-- https://en.wikipedia.org/wiki/Webmaster vahvistaa termin olevan ok -->
-  - Rekisteröin domainin `Gandi`lla, käytin pitkään `Cloudflare`n `DNS`-palveluita
-    ennen siirtymistäni takaisin `Gandi`n omaan palveluun, johon tuli tänä aikana
-    myös `DNSSEC`-tuki.
-  - Ylläpidän sivua `GitHub-pages`issa, kirjoitin sen alunperin `HTML+CSS`, siirtyen
-    myöhemmin `Jekyll` -`CMS`ään, joka generoi staattisia sivuja.
+  - Rekisteröin domainini `Gandi`lla ja olen sittemmin käyttänyt myös `Cloudflare`n, `EasyDNS`n ja `PorkBun`in palveluita erityisesti Gandin tullessa myydyksi. Nykyään kaikki kolme domainiani ovat Cloudflaressa (tosin vain `mikaela.info` on rekisteröity heidän kauttaan).
+  - Ylläpidän useampaa siustoa `GitHub-pages`issa, kirjoitin pääsivuni (aminda.eu) alunperin `HTML+CSS`, siirtyen
+    myöhemmin `Jekyll` -`CMS`ään, joka generoi staattisia sivuja. Se ei tosin tee kaikkea puolestani, vaan joudun välillä työskentelemään `HTML` ja `CSS` kanssa, erityisesti kun tarvitsen markdownia kehittyneempää työkalua.
   - Kirjoitan sivustolle blogiini moninaisista aiheista, kuten elämästäni ja
-    teknisemmistä aiheista, kuten `IRC`- ja `Matrix`-protokollista.
+    teknisemmistä aiheista, kuten `IRC`- ja `Matrix`-protokollista, sekä aiemmin mainituista selain policyistä.
   - Pohdin sivun `issue tracker`issa usein mitä voisin parantaa, mitä voisin
     blogata ja usein sisällytän mukaan pääpiirteittäin mistä haluan kirjoittaa.
 - Lukeminen
@@ -186,7 +219,7 @@ _{{ site.bioenglish }}_
   - Seuraan Matrix Suomen keskusteluita ja palautetta käännöksestä.
   - Tuen myös sovellusten käyttäjiä niiden omilla tukikanavilla.
 
-## Societal and political activities
+## Yhteiskunnallinen ja poliittinen toiminta
 
 - Piraattipuolueen puoluevaltuusto
   - Varajäsen 26.09.2020-25.02.2021, varsinainen jäsen 25.02.2021-18.06.2022 <!-- 26.09.2020 eteenpäin on sama hallituskausi, kaksi varsinaista poistui, joten "päivitys" -->
@@ -198,8 +231,14 @@ _{{ site.bioenglish }}_
   - 14.04.2018 - 12.04.2019
 - Piraattipuolueen kuntavaaliehdokas Helsingissä 2017
 
+<!-- ## Suosittelijat
+
+Lisätään tähän kun heitä on
+
+-->
+
 ---
 
-| Version                  | Date            |
+| Versio                   | Päiväys         |
 | ------------------------ | --------------- |
 | {{ page.versionString }} | {{ page.date }} |
