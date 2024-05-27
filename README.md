@@ -18,6 +18,8 @@ Internally both of these are provided in the YAML front matter and refer to vari
 
 <!-- _{{ site.biosuomi }}_ -->
 
+<img src="https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/250.jpeg" alt="kuva minusta"/>
+
 _Aminda Suomalainen on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
 **_[Google Translated into English](https://cv-aminda-eu.translate.goog/fi/?_x_tr_sl=fi&_x_tr_tl=en&_x_tr_hl=fi&_x_tr_pto=nui), proper [English version is planned](https://github.com/Mikaela/cv/issues/1)._**
