@@ -3,8 +3,8 @@ title: suomeksi
 excerpt: "Räätälöimätön kaikki kaikesta versio CVstäni. Kysy
 kohdennetusta versiosta!"
 layout: default
-versionString: 2023.14.0
-date: 2023-04-06 11:01:00 +0300
+versionString: 2024.22.0
+date: 2024-05-27T18:39:39+03:00
 categories: cvsuomeksi
 permalink: /index.html
 redirect_from:
@@ -83,15 +83,16 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
   - Pystytin piraattipuolueelle `Matrix`-huoneita, sekä -avaruuksia, jotta
     puolueen pikaviestintään pääsee osallistumaan myös sieltä `Discord`-tyylisellä
     manuaalisella pääsynhallinnalla.
-  - Kommunikoin Itävallan piraattipuolueen kanssa, Suomen piraattipuolueen `matterbridge` käyttää heidän `Matrix`-palvelintaan
-    ja ylläpidän `Matterbridge`llä toistinta heidän vetämässään kansainvälisten piraattipuolueiden keskustelukanavalla (Global Pirates)
+  - Kommunikoin Itävallan piraattipuolueen kanssa, Suomen piraattipuolueen `matterbridge`n käyttäessä heidän `Matrix`-palvelintaan
+    ja ylläpidän samalla `matterbridge`llä toistinta heidän vetämässään kansainvälisten piraattipuolueiden keskustelukanavalla (Global Pirates)
     heidän `Mattermost`-palvelimellaan, `Matrix`issa, `Telegram`missa, `Discord`issa, `PirateIRC`ssä.
   - Avustin PirateIRC-verkkoa siirtymisessä neljästä `Charybdis`-`IRC`-palvelimesta ja
     `Atheme IRC`-palveluista modernimpaan `Ergo IRCd`-ratkaisuun, joka yhdistää IRC-palvelimen
     ja IRC-palvelut.
   - Kommunikoin aktiivisesti puolueen käyttämien ohjelmistojen upstreamin kanssa,
-    erityisesti `Charybdis`:ksen, `Atheme`n, `Ergo`n, `Limnoria`n ja `Gitea`n kanssa.
+    erityisesti `Charybdis`:ksen, `Atheme`n, `Ergo`n, `Limnoria`n ja <del>`Gitea`</del>`Forgejo`n kanssa.
   - Suomensin käyttämämme `TLG_JoinCaptchaBot`in.
+  - Ratkaisin `Nextcloud`-palvelimen vähäisestä muistista johtuvia kaatumisia parantamalla `systemd.unit`ia ja käyttöönottamalla `earlyoom`-sovelluksen ajatellessamme lisämuistin olevan välttämätöntä. <!-- Katson tämän saavutuksekseni. -->
 - 19.03.2020 - 04.01.2022 _[Federated Networks Association ry (Feneas)](https://feneas.org/)_
   - **Komitean jäsen**
   - Avustan yhä yhdistyksen lakkauttamisen jälkeenkin Feneaksen Matrix-huoneiden ylläpidossa, sekä keskustelen yhteisön
@@ -120,9 +121,10 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
 - Linux-ylläpito vuodesta 2008
   - Arch Linux, Debian, (Ubuntu, ) Fedora, SailfishOS
   - systemd (`system/user unit`s (palvelut, ajastimet), networkd, resolved, timesyncd…)
-  - OpenSSHd, CUPS tulostuspalvelu, UFW-palomuuri
+  - OpenSSHd, CUPS tulostuspalvelu, UFW- ja firewalld palomuurit
   - Chrony aika-palvelin
 - Git
+  - Pidän parhaina käytäntöinä `.gitattributes`, `pre-commit`, `.editorconfig`, jotka löytyvät vähän kaikista repoistani. `.gitattributes` ja `.editorconfig` ovat erityisen tärkeitä kaikkialla, jotta eri käyttöjärjestelmillä työskentely ei sotke rivinvaihtoja.
   - GitHub/GitLab/Gitea/Forĝejo orgaisaatiot, issue tracker, labelit
   - GitLab/Gitea/Forĝejo -repojen peilaus
   - GitHub/Gitlab pages
@@ -137,9 +139,11 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
   - Charybdis+Atheme, Ergo -palvelut ja -palvelimet
   - KiwiIRC, Gamja -selainpohjaiset asiakasohjelmat
 - WordPress -ongelmanratkaisu
-- bash-skriptaus, ks. [Mikaela/Scripts](https://gitea.blesmrt.net/mikaela/scripts)
+- `bash`-skriptaus ja `Python` perusteet, ks. [Mikaela/Scripts](https://gitea.blesmrt.net/mikaela/scripts)
 - MySQL-perusteet
 - $\LaTeX$ -perusteet, ks. [Mikaela/gist:in LaTeX-hakemisto](https://gitea.blesmrt.net/mikaela/gist/src/branch/master/LaTeX)
+- Selaimen keskitetty hallinta policyillä.
+  - Olen kirjoittanut aiheesta kaksi blogikirjoitusta englanniksi, [osa 1: miten pakotetaan vain HTTPS-tila käyttöön](https://aminda.eu/blog/english/2024/05/17/https-everywhere.html) ja [osa 2: PrivacyBadger & uBlock Origin asennus, sekä hallinta](https://aminda.eu/blog/english/2024/05/22/policy-contentblocker.html).
 
 ## Kielitaito
 
@@ -170,8 +174,10 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
 
 ## Koulutus
 
+- 14.03.2024 - 11.10.2024 _Taitotalo (Helsinki)_
+  - **Tieto- ja viestintätekniikan osatutkinto: kyberturvallisuuden ylläpitäminen**
 - 08.08.2012 - 29.05.2015 _Etelä-Kymenlaakson ammattiopisto (Hamina)_
-  - **Tieto- ja viestintätekniikan perustutkinto (käytön tuen koulutusohjelma), Datanomi**
+  - **Tieto- ja viestintätekniikan perustutkinto: käytön tuen koulutusohjelma (datanomi)**
 
 ## Kurssit ja muu koulutus
 
@@ -196,13 +202,11 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
 - Kielet
 - 11.07.2014-- Mikaela.info, 114077943.xyz ja Aminda.eu -kotisivuni ylläpito ja blogin kirjoitus
   - **Webmaster** <!-- https://en.wikipedia.org/wiki/Webmaster vahvistaa termin olevan ok -->
-  - Rekisteröin domainin `Gandi`lla, käytin pitkään `Cloudflare`n `DNS`-palveluita
-    ennen siirtymistäni takaisin `Gandi`n omaan palveluun, johon tuli tänä aikana
-    myös `DNSSEC`-tuki.
-  - Ylläpidän sivua `GitHub-pages`issa, kirjoitin sen alunperin `HTML+CSS`, siirtyen
-    myöhemmin `Jekyll` -`CMS`ään, joka generoi staattisia sivuja.
+  - Rekisteröin domainini `Gandi`lla ja olen sittemmin käyttänyt myös `Cloudflare`n, `EasyDNS`n ja `PorkBun`in palveluita erityisesti Gandin tullessa myydyksi. Nykyään kaikki kolme domainiani ovat Cloudflaressa (tosin vain `mikaela.info` on rekisteröity heidän kauttaan).
+  - Ylläpidän useampaa siustoa `GitHub-pages`issa, kirjoitin pääsivuni (aminda.eu) alunperin `HTML+CSS`, siirtyen
+    myöhemmin `Jekyll` -`CMS`ään, joka generoi staattisia sivuja. Se ei tosin tee kaikkea puolestani, vaan joudun välillä työskentelemään `HTML` ja `CSS` kanssa, erityisesti kun tarvitsen markdownia kehittyneempää työkalua.
   - Kirjoitan sivustolle blogiini moninaisista aiheista, kuten elämästäni ja
-    teknisemmistä aiheista, kuten `IRC`- ja `Matrix`-protokollista.
+    teknisemmistä aiheista, kuten `IRC`- ja `Matrix`-protokollista, sekä aiemmin mainituista selain policyistä.
   - Pohdin sivun `issue tracker`issa usein mitä voisin parantaa, mitä voisin
     blogata ja usein sisällytän mukaan pääpiirteittäin mistä haluan kirjoittaa.
 - Lukeminen
