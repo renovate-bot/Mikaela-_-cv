@@ -3,8 +3,8 @@ title: suomeksi
 excerpt: "Räätälöimätön kaikki kaikesta versio CVstäni. Kysy
 kohdennetusta versiosta!"
 layout: default
-versionString: 2024.22.0
-date: 2024-05-27T18:39:39+03:00
+versionString: 2024.22.1
+date: 2024-05-27T21:07:18+03:00
 categories: cvsuomeksi
 permalink: /index.html
 redirect_from:
@@ -123,7 +123,9 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
   - OpenSSHd, CUPS tulostuspalvelu, UFW- ja firewalld palomuurit
   - Chrony aika-palvelin
 - Git
-  - Pidän parhaina käytäntöinä `.gitattributes`, `pre-commit`, `.editorconfig`, jotka löytyvät vähän kaikista repoistani. `.gitattributes` ja `.editorconfig` ovat erityisen tärkeitä kaikkialla, jotta eri käyttöjärjestelmillä työskentely ei sotke rivinvaihtoja.
+  - Ainakin vuosikymmenen kokemus `git-loitsuista` mukaanlukien `bare`-repojen hallinta ilman verkkokäyttöliittymää,
+    `remote`:jen siirtämistä, pull requestien suoraan päätteestä hakemista, jne.
+  - Seuraa _omasta mielestään_ alan parhaita käytäntöjä, kuten `.gitattributes`, `pre-commit`, `editorconfig`, jotka voidaan löytää kaikista hänen repoistaan.
   - GitHub/GitLab/Gitea/Forĝejo orgaisaatiot, issue tracker, labelit
   - GitLab/Gitea/Forĝejo -repojen peilaus
   - GitHub/Gitlab pages

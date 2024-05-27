@@ -1,9 +1,9 @@
 ---
-title: in English
+title: English
 excerpt: "Everything about everything version of my CV, the tailored version doesn't exist in English yet."
 layout: default
-versionString: 2024.22.0
-date: 2024-05-27T18:39:39+03:00
+versionString: 2024.22.1
+date: 2024-05-27T21:07:18+03:00
 categories: cvinenglish
 permalink: /en/index.html
 ---
@@ -84,7 +84,10 @@ _…is an open-source enthustiastic volunteer sysadmin in the Pirate Party of Fi
   - OpenSSHd, CUPS print server, UFW and firewalld firewalls
   - Chrony time server
 - Git
-  - Best practices include `.gitattributes`, `pre-commit`, `.editorconfig`, which can be found in most of my repositories. `.gitattributes` and `.editorconfig` are particularly important everywhere to prevent line break issues across different operating systems.
+  - At least a decade of experience in all sorts of git magic, including
+    managing bare repositories without pretty user interfaces, moving remotes, setting upstreams,
+    fetching pull request remotes directly from terminal, etc.
+  - Follows best practices _in her opinion_ including `.gitattributes`, `pre-commit`, `.editorconfig`, which can be found in most of my repositories.
   - GitHub/GitLab/Gitea/Forĝejo organizations, issue tracker, labels
   - GitLab/Gitea/Forĝejo repository mirroring
   - GitHub/GitLab pages
@@ -114,23 +117,25 @@ _…is an open-source enthustiastic volunteer sysadmin in the Pirate Party of Fi
 ## Work Experience
 
 - 13.09.2021-28.11.2021 _Digitalents Academy_
-  - **Work Try-Out Practice**
+  - **[On the job training]**
   - Created a GitHub Pages-based CV (cv.aminda.eu).
   - Got acquainted with the basics of `Python` and `JavaScript`.
   - Briefly explored the `Flask` web framework.
   - Assisted other trainees with using `git`.
 - 03.2020 - 09.2020 _[Unicus Finland](https://unicus.com/fi/)_
-  - **Work Try-Out Practice**
+  - **[On the job training]**
   - Prepared for the _ISTQB Foundation Level_ exam.
   - Briefly explored programming with `Python 3`, `Ruby`, and `Go`.
   - Familiarized myself with `Firefox` Developer Tools, especially for accessibility testing.
   - Learned about the _Web Content Accessibility Guidelines_ and accessibility testing,
     and understood how accessibility benefits me personally.
 - 28.10.2019 - 19.12.2019 _Robuntu Osk_
-  - **Work Try-Out Practice**
+  - **[On the job training]**
   - Performed various tasks in support of the cooperative's operations.
   - Assisted in marketing the cooperative's services by exploring mass communication with `Thunderbird` extensions
     and `Facebook Marketplace`.
+
+[On the job training]: https://toimistot.te-palvelut.fi/en/work-try-out-practices-and-provisions
 
 ## Education
 
