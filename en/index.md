@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV in English
+title: in English
 versionString: 2023.14.0
 date: null
 categories: cvinenglish

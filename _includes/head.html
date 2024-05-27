@@ -1,6 +1,23 @@
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="robots" content="noai">
+  <title>{% if page.title %}{{ page.title }} ~~ {{ site.title }}{% else %}{{ site.title }}{% endif %}" </title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | nstrip_html | strip_newlines }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer" />
+  <meta name="og:title" content="{% if page.title %}{{ page.title }} ~~ {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | nstrip_html | strip_newlines }}{% endif %}" />
+  <meta name="og:site_name" content="{{site.title}}" />
+  <meta name="og:image" content="{{site.icon}}"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <meta http-equiv="x-dns-prefetch-control" content="off" />
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="icon" href="{{site.icon}}">
+  <link rel="me" href="{{ site.url }}" />
+  <link rel="me" href="https://aminda.eu" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="prefetch" href="https://prefetch.validatorsearch.verisignlabs.com" />
+  <link rel="me" type="application/activity+json" href="https://sauna.social/users/aminda" />
+  <link rel="me" type="application/activity+json" href="https://mastodon.pirateparty.be/users/MikaelaPPFI" />
 </head>
