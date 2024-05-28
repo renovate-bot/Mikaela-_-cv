@@ -3,8 +3,8 @@ title: suomeksi
 excerpt: "Räätälöimätön kaikki kaikesta versio CVstäni. Kysy
 kohdennetusta versiosta!"
 layout: default
-versionString: 2024.22.1
-date: 2024-05-27T21:07:18+03:00
+versionString: 2024.22.2
+date: 2024-05-28T08:59:32+03:00
 categories: cvsuomeksi
 permalink: /index.html
 redirect_from:
@@ -125,6 +125,7 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
 - Git
   - Ainakin vuosikymmenen kokemus `git-loitsuista` mukaanlukien `bare`-repojen hallinta ilman verkkokäyttöliittymää,
     `remote`:jen siirtämistä, pull requestien suoraan päätteestä hakemista, jne.
+    - Aktiivisimpia GitHub-käyttäjiä Suomessa [2013-2014](https://gist.github.com/jaukia/b23b15d2859e6cf5386b), [2014-2015](https://gist.github.com/jaukia/1d41a0045ab8e9f411ff), [2015-2016](https://gist.github.com/nikcorg/4ebdda1952976b8cc0af#most-active-github-users-gitiotop), …sekä [nyt](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/finland.md).
   - Seuraa _omasta mielestään_ alan parhaita käytäntöjä, kuten `.gitattributes`, `pre-commit`, `editorconfig`, jotka voidaan löytää kaikista hänen repoistaan.
   - GitHub/GitLab/Gitea/Forĝejo orgaisaatiot, issue tracker, labelit
   - GitLab/Gitea/Forĝejo -repojen peilaus

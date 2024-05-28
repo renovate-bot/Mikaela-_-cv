@@ -2,8 +2,8 @@
 title: English
 excerpt: "Everything about everything version of my CV, the tailored version doesn't exist in English yet."
 layout: default
-versionString: 2024.22.1
-date: 2024-05-27T21:07:18+03:00
+versionString: 2024.22.2
+date: 2024-05-28T08:59:32+03:00
 categories: cvinenglish
 permalink: /en/index.html
 ---
@@ -87,6 +87,7 @@ _…is an open-source enthustiastic volunteer sysadmin in the Pirate Party of Fi
   - At least a decade of experience in all sorts of git magic, including
     managing bare repositories without pretty user interfaces, moving remotes, setting upstreams,
     fetching pull request remotes directly from terminal, etc.
+    - One of the most active GitHub users in Finland in [2013-2014](https://gist.github.com/jaukia/b23b15d2859e6cf5386b), [2014-2015](https://gist.github.com/jaukia/1d41a0045ab8e9f411ff), [2015-2016](https://gist.github.com/nikcorg/4ebdda1952976b8cc0af#most-active-github-users-gitiotop), …and [now](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/finland.md).
   - Follows best practices _in her opinion_ including `.gitattributes`, `pre-commit`, `.editorconfig`, which can be found in most of my repositories.
   - GitHub/GitLab/Gitea/Forĝejo organizations, issue tracker, labels
   - GitLab/Gitea/Forĝejo repository mirroring
