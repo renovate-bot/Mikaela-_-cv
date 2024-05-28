@@ -86,7 +86,7 @@ _…is an open-source enthustiastic volunteer sysadmin in the Pirate Party of Fi
 - Git
   - At least a decade of experience in all sorts of git magic, including
     managing bare repositories without pretty user interfaces, moving remotes, setting upstreams,
-    fetching pull request remotes directly from terminal, etc.
+    fetching pull request remotes directly from terminal (`git config --add remote.origin.fetch '+refs/pull/*/head:refs/remotes/origin/pr/*'`), etc.
     - One of the most active GitHub users in Finland in [2013-2014](https://gist.github.com/jaukia/b23b15d2859e6cf5386b), [2014-2015](https://gist.github.com/jaukia/1d41a0045ab8e9f411ff), [2015-2016](https://gist.github.com/nikcorg/4ebdda1952976b8cc0af#most-active-github-users-gitiotop), …and [now](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/finland.md).
   - Follows best practices _in her opinion_ including `.gitattributes`, `pre-commit`, `.editorconfig`, which can be found in most of my repositories.
   - GitHub/GitLab/Gitea/Forĝejo organizations, issue tracker, labels
