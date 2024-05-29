@@ -12,7 +12,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
   <meta http-equiv="x-dns-prefetch-control" content="off" />
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet prefetch" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="icon" href="{{site.icon}}">
   <link rel="me" href="{{ site.url }}" />
   <link rel="me" href="https://aminda.eu" />
@@ -25,5 +25,5 @@
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
   };
   </script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script rel="prefetch" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
