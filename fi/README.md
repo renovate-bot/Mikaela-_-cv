@@ -29,7 +29,7 @@ Internally both of these are provided in the YAML front matter and refer to vari
 
 _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
-🌍 Helsinki, Suomi / [Kotisivu](https://aminda.eu) / [Sähköposti](mailto:{{ site.email }}) / [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
+🌍 Helsinki, Suomi / [Kotisivu](https://aminda.eu) / [Sähköposti](mailto:{{ site.email }}) / [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
 [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Telegram](https://aminda.eu/txt/telegram.txt) / [OpenHub](https://www.openhub.net/accounts/Mikaela) / [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
 
 ## Sisällys

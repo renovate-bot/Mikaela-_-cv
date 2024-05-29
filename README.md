@@ -14,7 +14,7 @@ permalink: /en/index.html
 
 _…is an open-source enthustiastic volunteer sysadmin in the Pirate Party of Finland._
 
-🌍 Helsinki, Suomi / [Homepage](https://aminda.eu) / [Email](mailto:{{ site.email }}) / [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
+🌍 Helsinki, Suomi / [Homepage](https://aminda.eu) / [Email](mailto:{{ site.email }}) / [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
 [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Telegram](https://aminda.eu/txt/telegram.txt) / [OpenHub](https://www.openhub.net/accounts/Mikaela) / [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
 
 ## Table of Contents
