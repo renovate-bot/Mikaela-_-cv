@@ -29,16 +29,15 @@ Internally both of these are provided in the YAML front matter and refer to vari
 
 _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
-🌍 Helsinki, Suomi / [Email](mailto:{{ site.email }}) /
-[GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
-[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Telegram](https://aminda.eu/txt/telegram.txt) / [OpenHub](https://www.openhub.net/accounts/Mikaela) / [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
+🌍 Helsinki, Suomi / [Kotisivu](https://aminda.eu) / [Sähköposti](mailto:{{ site.email }}) / [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
+[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Telegram](https://aminda.eu/txt/telegram.txt) / [OpenHub](https://www.openhub.net/accounts/Mikaela) / [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
 
 ## Sisällys
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Luottamustehtävät / vapaa-ehtoistyö](#luottamusteht%C3%A4v%C3%A4t--vapaa-ehtoisty%C3%B6)
+- [Luottamustehtävät / vapaa-ehtoistyö](#luottamusteht%C3%A4v%C3%A4t%C2%A0%C2%A0vapaa-ehtoisty%C3%B6)
 - [IT-Taidot](#it-taidot)
 - [Kielitaito](#kielitaito)
 - [Työkokemus](#ty%C3%B6kokemus)
@@ -49,7 +48,7 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Luottamustehtävät / vapaa-ehtoistyö
+## Luottamustehtävät / vapaa-ehtoistyö
 
 - 10.2015-- _[Piraattipuolue r.p.](https://piraattipuolue.fi/)_
   - **Verkkopalveluiden- ja Pikaviestinten ylläpito** <!-- Pikaviestintiimi perustettiin virallisesti 27.03.2018, verkkopalveluiden selvitys 06.08.2019 ja IT-tiimi on ollut 11.12.2019 -->
