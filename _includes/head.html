@@ -2,11 +2,11 @@
   <meta charset="utf-8">
   <meta name="robots" content="noai">
   <title>{{site.title}} {{ page.title }} — {{site.author}}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | nstrip_html | strip_newlines }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="referrer" content="no-referrer" />
   <meta name="og:title" content="{{site.title}} {{ page.title }} — {{site.author}}" />
-  <meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | nstrip_html | strip_newlines }}{% endif %}" />
+  <meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines }}{% endif %}" />
   <meta name="og:site_name" content="{{site.title}} — {{site.author}}" />
   <meta name="og:image" content="{{site.icon}}"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
