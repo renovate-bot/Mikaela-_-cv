@@ -4,6 +4,11 @@
 
 @charset "utf-8";
 
+$base-font-family: ui-serif, "Liberation Serif", Tinos, "Times New Roman",
+  serif;
+$monospace-font-family: ui-monospace, "Liberation Mono", Cousine,
+  "Courier New", monospace;
+
 @import "{{ site.theme }}";
 
 :root {
@@ -14,7 +19,6 @@
   //  box-sizing: border-box !important;
   color: revert !important;
   background-color: revert !important;
-  font-family: "Liberation Serif", "Tinos", "Times New Roman", serif !important;
   //margin: auto  !important;
   //  line-height: 1.2 !important;
   // A4 paper
@@ -31,7 +35,6 @@ a {
 
 pre,
 code {
-  font-family: "Liberation Mono", "Cousine", "Courier New", monospace !important;
   font-size: 0.8em !important;
 }
 
