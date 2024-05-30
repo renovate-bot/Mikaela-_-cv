@@ -4,7 +4,7 @@ excerpt: "Everything about everything version of my CV, the tailored version doe
 layout: default
 versionString: 2024.22.2
 date: 2024-05-28T08:59:32+03:00
-categories: cvinenglish
+lang: en
 permalink: /en/index.html
 ---
 
