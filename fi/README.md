@@ -29,8 +29,8 @@ Internally both of these are provided in the YAML front matter and refer to vari
 
 _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
-🌍 Helsinki, Suomi / [Kotisivu](https://aminda.eu) / [Sähköposti](mailto:{{ site.email }}) / [GitHub](https://github.com/Mikaela) / [GitLab.com](https://gitlab.com/Mikaela) /
-[LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Telegram](https://aminda.eu/txt/telegram.txt) / [OpenHub](https://www.openhub.net/accounts/Mikaela) / [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
+🌍 Hel&shy;sin&shy;ki, Suo&shy;mi / [Ko&shy;ti&shy;si&shy;vu](https://aminda.eu) / [Säh&shy;kö&shy;pos&shy;ti](mailto:{{ site.email }}) / [Git&shy;Hub](https://github.com/Mikaela) / [Git&shy;Lab.com](https://gitlab.com/Mikaela) /
+[Lin&shy;ked&shy;In](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Tel&shy;e&shy;gram](https://aminda.eu/txt/telegram.txt) / [Open&shy;Hub](https://www.openhub.net/accounts/Mikaela) / [Sig&shy;nal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
 
 ## Sisällys
 
