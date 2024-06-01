@@ -9,7 +9,7 @@
 // I imagine it's a small minority and most users will get either ui-serif
 // or fallback further down the fallback list, perhaps all the way to serif.
 $base-font-family: ui-serif, system-ui, "Liberation Serif", Tinos,
-  "Times New Roman", serif;
+  "Times New Roman", serif, emoji;
 $monospace-font-family: ui-monospace, "Liberation Mono", Cousine,
   "Courier New", monospace;
 
@@ -31,6 +31,8 @@ $monospace-font-family: ui-monospace, "Liberation Mono", Cousine,
   //padding: auto !important;
   overflow-wrap: break-word !important;
   hyphens: auto !important;
+  // Experimental trick to make all emojis text if supported.
+  font-variant-emoji: text;
 }
 
 a {
