@@ -8,6 +8,7 @@ date: 2024-05-28T08:59:32+03:00
 lang: fi
 permalink: /index.html
 redirect_from:
+  - /fi.html
   - fi/index.html
   - fi/README.html
   - README.html
@@ -29,15 +30,14 @@ Internally both of these are provided in the YAML front matter and refer to vari
 
 _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
-🌍 Hel&shy;sin&shy;ki, Suo&shy;mi / [Ko&shy;ti&shy;si&shy;vu](https://aminda.eu) / [Säh&shy;kö&shy;pos&shy;ti](mailto:{{ site.email }}) / [Git&shy;Hub](https://github.com/Mikaela) / [Git&shy;Lab.com](https://gitlab.com/Mikaela) /
-[Lin&shy;ked&shy;In](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Tel&shy;e&shy;gram](https://aminda.eu/txt/telegram.txt) / [Open&shy;Hub](https://www.openhub.net/accounts/Mikaela) / [Sig&shy;nal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
+&#127760; Helsinki, Suomi, [GitHub](https://github.com/Mikaela), [GitLab.com](https://gitlab.com/Mikaela), [Keyoxide](https://keyoxide.org/aspe:keyoxide.org:LGWNUB7QG4M326FXXBH5Z6PLVY), [Kotisivu](https://aminda.eu), [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/), [Telegram](https://aminda.eu/txt/telegram.txt), [OpenHub](https://www.openhub.net/accounts/Mikaela), [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up), [Sähköposti](mailto:{{ site.email }})
 
 ## Sisällys
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Luottamustehtävät / vapaa-ehtoistyö](#luottamusteht%C3%A4v%C3%A4t%C2%A0%C2%A0vapaa-ehtoisty%C3%B6)
+- [Luottamustehtävät, vapaa-ehtoistyö](#luottamusteht%C3%A4v%C3%A4t-vapaa-ehtoisty%C3%B6)
 - [IT-Taidot](#it-taidot)
 - [Kielitaito](#kielitaito)
 - [Työkokemus](#ty%C3%B6kokemus)
@@ -48,7 +48,7 @@ _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Luottamustehtävät / vapaa-ehtoistyö
+## Luottamustehtävät, vapaa-ehtoistyö
 
 - 10.2015-- _[Piraattipuolue r.p.](https://piraattipuolue.fi/)_
   - **Verkkopalveluiden- ja Pikaviestinten ylläpito** <!-- Pikaviestintiimi perustettiin virallisesti 27.03.2018, verkkopalveluiden selvitys 06.08.2019 ja IT-tiimi on ollut 11.12.2019 -->

@@ -6,6 +6,7 @@ versionString: 2024.22.2
 date: 2024-05-28T08:59:32+03:00
 lang: en
 permalink: /en/index.html
+redirect_from: /en/html
 ---
 
 # Aminda Suomalainen
@@ -14,8 +15,7 @@ permalink: /en/index.html
 
 _…is an open-source enthustiastic volunteer sysadmin in the Pirate Party of Finland._
 
-🌍 Hel&shy;sin&shy;ki, Finland / [Home&shy;page](https://aminda.eu) / [E&shy;mail](mailto:{{ site.email }}) / [Git&shy;Hub](https://github.com/Mikaela) / [Git&shy;Lab.com](https://gitlab.com/Mikaela) /
-[Linked&shy;In](https://www.linkedin.com/in/mikaelahmsuomalainen/) / [Tele&shy;gram](https://aminda.eu/txt/telegram.txt) / [Open&shy;Hub](https://www.openhub.net/accounts/Mikaela) / [Sig&shy;nal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
+&#127760;&nbsp;Helsinki,&nbsp;Finland. [Email](mailto:{{ site.email }}) [GitHub](https://github.com/Mikaela) [GitLab.com](https://gitlab.com/Mikaela) [Homepage](https://aminda.eu) [Keyoxide](https://keyoxide.org/aspe:keyoxide.org:LGWNUB7QG4M326FXXBH5Z6PLVY) [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/) [Telegram](https://aminda.eu/txt/telegram.txt) [OpenHub](https://www.openhub.net/accounts/Mikaela) [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up)
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ _…is an open-source enthustiastic volunteer sysadmin in the Pirate Party of Fi
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Volunteering / positions of trust](#volunteering%C2%A0%C2%A0positions-of-trust)
+- [Volunteering, positions of trust](#volunteering-positions-of-trust)
 - [IT Skills](#it-skills)
 - [Language skills](#language-skills)
 - [Work Experience](#work-experience)
@@ -39,7 +39,7 @@ _…is an open-source enthustiastic volunteer sysadmin in the Pirate Party of Fi
 <!-- prettier-ignore-end -->
 <!-- editorconfig-checker-enable -->
 
-## Volunteering / positions of trust
+## Volunteering, positions of trust
 
 - 10.2015-- _[Pirate Party of Finland](https://piraattipuolue.fi/en/)_
   - **Web Services and Instant Messaging Maintenance** <!-- The instant messaging team was officially founded on 27.03.2018, the web services survey on 06.08.2019, and the IT team has been in place since 11.12.2019 -->
