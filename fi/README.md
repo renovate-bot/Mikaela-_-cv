@@ -30,7 +30,11 @@ Internally both of these are provided in the YAML front matter and refer to vari
 
 _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
-&#127760; Helsinki, Suomi, [GitHub](https://github.com/Mikaela), [GitLab.com](https://gitlab.com/Mikaela), [Keyoxide](https://keyoxide.org/aspe:keyoxide.org:LGWNUB7QG4M326FXXBH5Z6PLVY), [Kotisivu](https://aminda.eu), [LinkedIn](https://www.linkedin.com/in/mikaelahmsuomalainen/), [Telegram](https://aminda.eu/txt/telegram.txt), [OpenHub](https://www.openhub.net/accounts/Mikaela), [Signal](https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up), [Sähköposti](mailto:{{ site.email }})
+<ul style="list-style-type: none">
+  <li>&#127757;&#65038;&nbsp;Helsinki,&nbsp;Finland &#127760;&#65038;&nbsp;<a href="https://aminda.eu">Aminda.eu</a> &#129706;&#65038;&nbsp;<a href="https://keyoxide.org/aspe:keyoxide.org:LGWNUB7QG4M326FXXBH5Z6PLVY">Keyoxide</a></li>
+  <li>&#129309;&#127995;&#65038;&nbsp;<a href="https://github.com/Mikaela">GitHub</a> &#129309;&#127996;&#65038;&nbsp;<a href="https://gitlab.com/Mikaela">GitLab.com</a> &#129309;&#127970;&#65038;&nbsp;<a href="https://www.linkedin.com/in/mikaelahmsuomalainen/">LinkedIn</a> &#129309;&#127997;&#65038;&nbsp;<a href="https://www.openhub.net/accounts/Mikaela">OpenHub</a></li>
+  <li>&#128275;&#65038;&nbsp;<a href="https://aminda.eu/txt/telegram.txt">Telegram</a> &#128272;&#65038;&nbsp;<a href="https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up">Signal</a> &#128231;&#65038;&nbsp;<a href="(mailto:{{ site.email }}">Email</a></li>
+</ul>
 
 ## Sisällys
 

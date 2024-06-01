@@ -17,3 +17,9 @@ icon: https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-me
 linkedin_username: aminda-eu
 github_username: Mikaela
 email: suomalainen@mikaela.info
+# Explicitly specify built with kramdown and options for it
+markdown: kramdown
+kramdown:
+  # Required for entering html blocks within the markdown such as the unstyled
+  # list
+  parse_block_html: true
