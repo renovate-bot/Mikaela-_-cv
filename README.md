@@ -7,6 +7,7 @@ date: 2024-05-28T08:59:32+03:00
 lang: en
 permalink: /en/index.html
 redirect_from: /en/html
+robots: noai, nofollow
 ---
 
 # Aminda Suomalainen

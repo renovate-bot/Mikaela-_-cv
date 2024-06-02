@@ -12,6 +12,7 @@ redirect_from:
   - fi/index.html
   - fi/README.html
   - README.html
+robots: nofollow, noai
 ---
 
 # Aminda Suomalainen

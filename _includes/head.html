@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <meta name="robots" content="noai">
+  <meta name="robots" content="{{ page.robots }}">
   <title>{{site.title}} {{ page.title }} — {{site.author}}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
