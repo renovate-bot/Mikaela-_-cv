@@ -16,26 +16,20 @@ redirect_from:
 
 # Aminda Suomalainen
 
-<!-- https://workwithcarolyn.com/blog/digital-cv-guide
-Due to having two different language versions, I need to be aware which state particular version is to keep them in sync, I have decided to use CalVer format YYYY.0W.MICRO (year.week.numberofEdit e.g. 2022.01.00).
-
-Additionally more human readable date is provided for convenience of the reader for when I have made changes or confirmed the CV to still be up-to-date.
-
-Internally both of these are provided in the YAML front matter and refer to variable on the bottom of the page.
--->
-
-<!-- _{{ site.biosuomi }}_ -->
-
 <img src="https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/250.jpeg" alt="kuva minusta"/>
 
 _…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
 
-<ul style="list-style-type: none">
-  <li>&#127757;&#65038;&nbsp;Helsinki,&nbsp;Finland &#127760;&#65038;&nbsp;<a href="https://aminda.eu">Aminda.eu</a> &#129706;&#65038;&nbsp;<a href="https://keyoxide.org/aspe:keyoxide.org:LGWNUB7QG4M326FXXBH5Z6PLVY">Keyoxide</a> &#128442;&#65038;&nbsp;<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
-  <li>&#129309;&#127995;&#65038;&nbsp;<a href="https://github.com/{{ site.github_username }}">GitHub</a> &#129309;&#127996;&#65038;&nbsp;<a href="https://gitlab.com/Mikaela">GitLab.com</a>
-   &#129309;&#127997;&#65038;&nbsp;<a href="https://www.openhub.net/accounts/Mikaela">OpenHub</a></li>
-  <li>&#128275;&#65038;&nbsp;<a href="https://aminda.eu/txt/telegram.txt">Telegram</a> &#128272;&#65038;&nbsp;<a href="https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up">Signal</a> &#128231;&#65038;&nbsp;<a href="(mailto:{{ site.email }}">Email</a></li>
+<p style="text-align: center;">&#127987;&#65039;&#8205;&#9895;&#8203;&#8205;&#127987;&#65039;&#8205;&#127752;&#65039;</p>
+
+<ul class="linklist">
+  <li>Helsinki, Finland</li>
+  <li><a href="https://aminda.eu">Aminda.eu</a> <a href="https://keyoxide.org/aspe:keyoxide.org:LGWNUB7QG4M326FXXBH5Z6PLVY">Keyoxide</a>  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
+  <li><a href="https://github.com/{{ site.github_username }}">GitHub</a> <a href="https://gitlab.com/Mikaela">GitLab.com</a> <a href="https://www.openhub.net/accounts/Mikaela">OpenHub</a></li>
+  <li><a href="https://aminda.eu/txt/telegram.txt">Telegram</a> <a href="https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up">Signal</a> <a href="(mailto:{{ site.email }}">Sähköposti</a></li>
 </ul>
+
+<p style="text-align: center;">&#8205;&#127987;&#65039;&#8205;&#127752;&#65039;&#8203;&#127987;&#65039;&#8205;&#9895;</p>
 
 ## Sisällys
 

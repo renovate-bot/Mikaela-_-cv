@@ -11,7 +11,7 @@
 $base-font-family: ui-serif, system-ui, "Liberation Serif", Tinos,
   "Times New Roman", serif, emoji;
 $monospace-font-family: ui-monospace, "Liberation Mono", Cousine,
-  "Courier New", monospace;
+  "Courier New", monospace, emoji;
 
 @import "{{ site.theme }}";
 
@@ -53,6 +53,12 @@ img {
     display: float !important;
     float: right !important;
   }
+}
+
+ul.linklist {
+  list-style: none inside;
+  font-family: $monospace-font-family;
+  //font-variant: small-caps;
 }
 
 // Customize the dark theme to be more me
