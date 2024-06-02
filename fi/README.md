@@ -6,6 +6,7 @@ layout: default
 versionString: 2024.22.2
 date: 2024-05-28T08:59:32+03:00
 lang: fi
+locale: fi_FI
 permalink: /index.html
 redirect_from:
   - /fi.html

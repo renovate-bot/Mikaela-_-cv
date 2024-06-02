@@ -1,14 +1,18 @@
 theme: minima
-title: Curriculum Vitae
-author: Aminda Suomalainen
+title: "CV, Aminda Suomalainen"
+author:
+  name: "Aminda Suomalainen"
+  url: "https://aminda.eu/"
 description: >
-  Sysadmin
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://cv.aminda.eu" # the base hostname & protocol for your site
+  My Curriculum Vitae can be found here in Finnish and English.
+baseurl: "" # the subpath of your site, e.g. /blog/
+tagline: "Aminda Suomalainen"
+url: https://cv.aminda.eu # the base hostname & protocol for your site
 timezone: Europe/Helsinki
 encoding: utf-8
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-redirect-from
 sitemap:
   file: "/sitemap.xml"
@@ -23,3 +27,14 @@ kramdown:
   # Required for entering html blocks within the markdown such as the unstyled
   # list
   parse_block_html: true
+# Jekyll SEO will handle these
+webmaster_verifications:
+  google: oELGPuQ0VNEekDke964c0XCMYaC_Nd_Mr_TRYEVRXgY
+  bing: DDF472BEC8E65C680D65A24256C33B24
+  yandex: 2d5398c328c66322
+# Jekyll SEO as well
+defaults:
+  - scope:
+      path: "*"
+    values:
+      image: https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/250.jpeg

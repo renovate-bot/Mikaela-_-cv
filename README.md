@@ -5,6 +5,7 @@ layout: default
 versionString: 2024.22.2
 date: 2024-05-28T08:59:32+03:00
 lang: en
+locale: en_US
 permalink: /en/index.html
 redirect_from: /en/html
 robots: noai, nofollow
