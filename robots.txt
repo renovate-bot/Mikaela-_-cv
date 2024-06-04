@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /$
 Allow: /en/$
+Allow: /fi/$
 Allow: /*.html$
 Allow: /robots.txt
 Allow: /sitemap.xml
