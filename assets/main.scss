@@ -4,14 +4,15 @@
 
 @charset "utf-8";
 
-// Apparently my Android understands system-ui, but not ui-serif, so for the
-// best experience, I will permit fallback, even if it will be sans-serif.
-// I imagine it's a small minority and most users will get either ui-serif
-// or fallback further down the fallback list, perhaps all the way to serif.
-$base-font-family: ui-serif, system-ui, "Liberation Serif", Tinos,
-  "Times New Roman", serif, emoji;
+// Our variables
+$serif-font-family: ui-serif, "Liberation Serif", Tinos, "Times New Roman",
+  serif, emoji;
+$sans-serif-font-family: ui-sans-serif, "Liberation Sans", "Arimo", "Arial",
+  sans-serif;
 $monospace-font-family: ui-monospace, "Liberation Mono", Cousine,
   "Courier New", monospace, emoji;
+// Must be in the end or undefined error.
+$base-font-family: $serif-font-family;
 
 @import "{{ site.theme }}";
 
@@ -39,9 +40,36 @@ a {
   text-decoration: underline !important;
 }
 
-pre,
+a.site-title {
+  font-family: $serif-font-family;
+}
+
+// Monospace preferred for code
+code,
+pre {
+  font-family: $monospace-font-family !important;
+}
+
+// So it will not look bigger than normal text
 code {
   font-size: 0.8em !important;
+}
+
+// Sans-Serif for headings to constrast with aminda.eu
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $sans-serif-font-family !important;
+}
+
+// The introduction on top
+#bio {
+  text-align: center;
+  font-style: italic;
+  font-family: ui-cursive, $serif-font-family;
 }
 
 img {

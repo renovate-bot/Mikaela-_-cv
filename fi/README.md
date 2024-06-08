@@ -20,7 +20,7 @@ robots: nofollow, noai
 
 <img src="https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/250.jpeg" alt="kuva minusta"/>
 
-_…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._
+<span id="bio">_…on avointa lähdekoodia tukeva verkkopalveluylläpitäjä piraattipuolueessa._</span>
 
 <p style="text-align: center;">&#127987;&#65039;&#8205;&#9895;&#8203;&#8205;&#127987;&#65039;&#8205;&#127752;&#65039;</p>
 
