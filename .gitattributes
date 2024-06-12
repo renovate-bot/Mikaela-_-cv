@@ -17,7 +17,9 @@ _sass/** text=auto -linguist-detectable
 
 # Unnecessary for statistics
 Gemfile text linguist-vendored
+package.json text linguist-vendored
 Gemfile.lock text linguist-generated
+pnpm-lock.yaml text linguist-generated
 
 # LFS
 *.jpeg filter=lfs diff=lfs merge=lfs -text
