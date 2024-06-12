@@ -61,13 +61,16 @@ code {
 }
 
 // Sans-Serif for headings to constrast with aminda.eu
-h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
   font-family: $sans-serif-font-family !important;
+}
+
+h2.footer-heading {
+  font-family: $serif-font-family !important;
 }
 
 // The introduction on top
