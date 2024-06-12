@@ -3,8 +3,8 @@ title: suomeksi
 excerpt: "Räätälöimätön kaikki kaikesta versio CVstäni. Kysy
 kohdennetusta versiosta!"
 layout: default
-versionString: 2024.22.2
-date: 2024-05-28T08:59:32+03:00
+versionString: 2024.24.0
+date: 2024-06-12T22:03:00+03:00
 lang: fi
 locale: fi_FI
 permalink: /index.html
