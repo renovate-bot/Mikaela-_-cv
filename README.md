@@ -8,7 +8,7 @@ lang: en
 locale: en_FI
 permalink: /en/index.html
 redirect_from: /en/html
-robots: noai, nofollow
+robots: nofollow
 ---
 
 # Aminda Suomalainen
