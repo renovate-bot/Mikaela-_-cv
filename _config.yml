@@ -19,6 +19,9 @@ sitemap:
 include: [robots.txt]
 icon: https://media.githubusercontent.com/media/Mikaela/mikaela.github.io/lfs-media/avatar/90.jpeg
 linkedin_username: aminda-eu
+facebook_username: "61560831284680"
+facebook:
+  publisher: "61560831284680"
 github_username: Mikaela
 email: suomalainen@mikaela.info
 # Explicitly specify built with kramdown and options for it
