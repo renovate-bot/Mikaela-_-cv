@@ -5,7 +5,7 @@
 # See https://pre-commit.com for more information
 # See https://pre-commit.ci for more information
 ci:
-  skip: [pnpm-prettier]
+  skip: [install-dev-deps, prettier]
   # I don't need so many duplicated notifications on the same thing as I keep
   # autoupdating manually too. Besides it just creates extra branch I never
   # touch.
@@ -63,25 +63,19 @@ repos:
       - id: check-github-workflows
       - id: check-gitlab-ci
 
-  # - repo: https://github.com/rbubley/mirrors-prettier
-  #   rev: "v3.3.1"
-  #   hooks:
-  #     - id: prettier
-  #       additional_dependencies: [
-  #           # https://www.npmjs.com/package/prettier
-  #           "prettier@3.3.1",
-  #           # https://www.npmjs.com/package/@prettier/plugin-xml
-  #           "@prettier/plugin-xml@3.4.1",
-  #         ]
-
   - repo: local
     hooks:
-      - id: pnpm-prettier
-        name: prettier
-        entry: pnpm exec prettier --cache --ignore-unknown --write
+      - id: install-dev-deps
+        name: Install pnpm dev dependencies
+        entry: corepack pnpm install -D
         language: system
-        # Better handled by pretty-format-json from pre-commit-hooks.
-        # Remember to have *.json in .prettierignore!
+        always_run: true
+        verbose: true
+        pass_filenames: false
+      - id: prettier
+        name: prettier
+        entry: corepack pnpm exec prettier --cache --ignore-unknown --write
+        language: system
         exclude_types: [json]
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
