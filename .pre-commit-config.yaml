@@ -57,7 +57,7 @@ repos:
         args: [--update-only, --no-title]
 
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.28.5
+    rev: 0.28.6
     hooks:
       - id: check-dependabot
       - id: check-github-workflows
@@ -70,7 +70,7 @@ repos:
         entry: corepack pnpm install -D
         language: system
         always_run: true
-        verbose: true
+        #verbose: true
         pass_filenames: false
       - id: prettier
         name: prettier
