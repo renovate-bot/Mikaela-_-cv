@@ -28,7 +28,7 @@ piraattipuolueessa._</span>
 <ul class="linklist">
   <li>Helsinki, Finland</li>
   <li><a href="https://aminda.eu">Aminda.eu</a> <a href="https://keyoxide.org/aspe:keyoxide.org:LGWNUB7QG4M326FXXBH5Z6PLVY">Keyoxide</a>  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
-  <li><a href="https://github.com/{{ site.github_username }}">GitHub</a> <a href="https://gitlab.com/Mikaela">GitLab.com</a> <a href="https://www.openhub.net/accounts/Mikaela">OpenHub</a></li>
+  <li><a href="https://github.com/{{ site.github_username }}">GitHub</a> <a href="https://gitlab.com/{{ site.github_username }}">GitLab.com</a> <a href="https://www.openhub.net/accounts/Mikaela">OpenHub</a></li>
   <li><a href="https://aminda.eu/txt/telegram.txt">Telegram</a> <a href="https://signal.me/#eu/yd0IRZ4YzHcSjNLvON2pQcsjUYdQT-nmxb3sGUvRqNMKK3wyQsVCW5FTZcrfX8up">Signal</a> <a href="mailto:{{ site.email }}">Sähköposti</a></li>
 </ul>
 
