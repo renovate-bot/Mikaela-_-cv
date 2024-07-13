@@ -60,8 +60,11 @@ repos:
     rev: 0.29.0
     hooks:
       - id: check-dependabot
+      - id: check-github-actions
       - id: check-github-workflows
       - id: check-gitlab-ci
+      - id: check-renovate
+        additional_dependencies: ["pyjson5"]
 
   - repo: local
     hooks:
