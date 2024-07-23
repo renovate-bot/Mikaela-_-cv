@@ -213,8 +213,7 @@ Pirate Party of Finland._</span>
   - Assisted in marketing the cooperative's services by exploring mass
     communication with `Thunderbird` extensions and `Facebook Marketplace`.
 
-[On the job training]:
-  https://toimistot.te-palvelut.fi/en/work-try-out-practices-and-provisions
+[On the job training]: https://toimistot.te-palvelut.fi/en/work-try-out-practices-and-provisions
 
 ## Education
 

@@ -12,9 +12,9 @@ ci:
   # https://github.com/pre-commit-ci/issues/issues/83
   autoupdate_schedule: quarterly
 
-# Use pypy3 for the Python hooks. Except don't, see .gitlab-ci.yml
-#default_language_version:
-#  python: pypy3
+default_language_version:
+  node: lts
+  ruby: .ruby-version
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
@@ -77,7 +77,7 @@ repos:
         pass_filenames: false
       - id: prettier
         name: prettier
-        entry: corepack pnpm exec prettier --cache --ignore-unknown --write
+        entry: corepack pnpx prettier --cache --ignore-unknown --write
         language: system
         exclude_types: [json]
 
